@@ -1,0 +1,241 @@
+"Date","HomeTeam","AwayTeam","HomeScore","AwayScore"
+"2014-03-30","Helsingborgs IF","Djurgårdens IF",1,1
+"2014-03-30","Mjällby AIF","Gefle IF",2,2
+"2014-03-30","IF Brommapojkarna","Kalmar FF",1,2
+"2014-03-30","Halmstads BK","Örebro SK",1,2
+"2014-03-30","Malmö FF","Falkenbergs FF",3,0
+"2014-03-31","BK Häcken","IFK Norrköping",2,0
+"2014-03-31","Åtvidabergs FF","IF Elfsborg",2,1
+"2014-03-31","AIK","IFK Göteborg",0,2
+"2014-04-04","IF Elfsborg","BK Häcken",3,1
+"2014-04-05","Falkenbergs FF","IF Brommapojkarna",1,0
+"2014-04-06","Djurgårdens IF","Halmstads BK",3,0
+"2014-04-06","IFK Norrköping","Helsingborgs IF",2,0
+"2014-04-06","Gefle IF","AIK",1,2
+"2014-04-07","Kalmar FF","Åtvidabergs FF",2,2
+"2014-04-07","IFK Göteborg","Malmö FF",0,3
+"2014-04-08","Örebro SK","Mjällby AIF",1,0
+"2014-04-11","Mjällby AIF","Djurgårdens IF",0,2
+"2014-04-12","Malmö FF","Gefle IF",1,0
+"2014-04-12","Åtvidabergs FF","Falkenbergs FF",2,0
+"2014-04-13","AIK","Örebro SK",1,1
+"2014-04-13","Helsingborgs IF","BK Häcken",4,2
+"2014-04-13","Halmstads BK","IFK Norrköping",0,0
+"2014-04-14","IF Brommapojkarna","IFK Göteborg",1,1
+"2014-04-14","Kalmar FF","IF Elfsborg",0,0
+"2014-04-16","BK Häcken","Halmstads BK",3,0
+"2014-04-16","IFK Norrköping","Mjällby AIF",1,1
+"2014-04-16","Örebro SK","Malmö FF",1,2
+"2014-04-16","Djurgårdens IF","AIK",2,3
+"2014-04-17","Falkenbergs FF","Kalmar FF",1,3
+"2014-04-17","Gefle IF","IF Brommapojkarna",3,0
+"2014-04-17","IFK Göteborg","Åtvidabergs FF",5,0
+"2014-04-17","IF Elfsborg","Helsingborgs IF",1,0
+"2014-04-20","Kalmar FF","IFK Göteborg",1,1
+"2014-04-20","Halmstads BK","Helsingborgs IF",2,1
+"2014-04-20","Mjällby AIF","BK Häcken",1,4
+"2014-04-20","AIK","IFK Norrköping",1,2
+"2014-04-21","Falkenbergs FF","IF Elfsborg",2,3
+"2014-04-21","Åtvidabergs FF","Gefle IF",2,2
+"2014-04-21","Malmö FF","Djurgårdens IF",2,2
+"2014-04-21","IF Brommapojkarna","Örebro SK",2,2
+"2014-04-25","IFK Göteborg","Falkenbergs FF",1,0
+"2014-04-25","Örebro SK","Åtvidabergs FF",3,2
+"2014-04-27","Helsingborgs IF","Mjällby AIF",3,1
+"2014-04-27","Djurgårdens IF","IF Brommapojkarna",3,2
+"2014-04-27","BK Häcken","AIK",2,2
+"2014-04-28","Gefle IF","Kalmar FF",0,2
+"2014-04-28","IF Elfsborg","Halmstads BK",4,1
+"2014-04-28","IFK Norrköping","Malmö FF",1,2
+"2014-05-03","Mjällby AIF","Halmstads BK",2,1
+"2014-05-03","IF Brommapojkarna","IFK Norrköping",3,0
+"2014-05-04","Åtvidabergs FF","Djurgårdens IF",1,1
+"2014-05-04","Malmö FF","BK Häcken",1,2
+"2014-05-04","Kalmar FF","Örebro SK",2,0
+"2014-05-04","IFK Göteborg","IF Elfsborg",0,0
+"2014-05-05","Falkenbergs FF","Gefle IF",1,1
+"2014-05-05","AIK","Helsingborgs IF",2,1
+"2014-05-07","Djurgårdens IF","Kalmar FF",0,0
+"2014-05-07","IF Elfsborg","Mjällby AIF",3,1
+"2014-05-07","BK Häcken","IF Brommapojkarna",3,1
+"2014-05-07","IFK Norrköping","Åtvidabergs FF",2,1
+"2014-05-08","Gefle IF","IFK Göteborg",1,1
+"2014-05-08","Örebro SK","Falkenbergs FF",0,0
+"2014-05-08","Halmstads BK","AIK",2,2
+"2014-05-08","Helsingborgs IF","Malmö FF",0,1
+"2014-05-10","Kalmar FF","IFK Norrköping",2,0
+"2014-05-11","AIK","Mjällby AIF",2,1
+"2014-05-11","IFK Göteborg","Örebro SK",2,1
+"2014-05-11","Gefle IF","IF Elfsborg",0,1
+"2014-05-12","Åtvidabergs FF","BK Häcken",1,0
+"2014-05-12","Malmö FF","Halmstads BK",3,1
+"2014-05-12","IF Brommapojkarna","Helsingborgs IF",0,1
+"2014-05-12","Falkenbergs FF","Djurgårdens IF",1,0
+"2014-05-15","IF Brommapojkarna","Mjällby AIF",0,1
+"2014-05-15","IFK Norrköping","Falkenbergs FF",0,3
+"2014-05-15","AIK","IF Elfsborg",2,1
+"2014-05-19","Örebro SK","Gefle IF",2,2
+"2014-05-19","Halmstads BK","IF Brommapojkarna",3,0
+"2014-05-20","BK Häcken","Kalmar FF",4,1
+"2014-05-21","Helsingborgs IF","Åtvidabergs FF",0,0
+"2014-05-21","Djurgårdens IF","IFK Göteborg",0,0
+"2014-05-22","Mjällby AIF","Malmö FF",0,1
+"2014-05-24","Falkenbergs FF","BK Häcken",1,1
+"2014-05-24","IF Elfsborg","Örebro SK",1,0
+"2014-05-24","Åtvidabergs FF","Halmstads BK",1,0
+"2014-05-25","Kalmar FF","Helsingborgs IF",2,0
+"2014-05-25","IFK Göteborg","IFK Norrköping",2,2
+"2014-05-26","Gefle IF","Djurgårdens IF",1,1
+"2014-05-26","Malmö FF","AIK",2,2
+"2014-05-30","Örebro SK","Djurgårdens IF",0,1
+"2014-05-31","Halmstads BK","Kalmar FF",1,1
+"2014-05-31","Mjällby AIF","Åtvidabergs FF",1,0
+"2014-06-01","Helsingborgs IF","Falkenbergs FF",1,0
+"2014-06-01","IF Elfsborg","Malmö FF",0,1
+"2014-06-02","IFK Norrköping","Gefle IF",1,0
+"2014-06-02","AIK","IF Brommapojkarna",4,2
+"2014-06-02","BK Häcken","IFK Göteborg",1,1
+"2014-07-05","Gefle IF","BK Häcken",1,0
+"2014-07-05","Falkenbergs FF","Halmstads BK",1,1
+"2014-07-05","Kalmar FF","Mjällby AIF",2,1
+"2014-07-06","Örebro SK","IFK Norrköping",2,2
+"2014-07-06","IFK Göteborg","Helsingborgs IF",6,2
+"2014-07-06","IF Brommapojkarna","Malmö FF",1,1
+"2014-07-07","Åtvidabergs FF","AIK",0,3
+"2014-07-07","Djurgårdens IF","IF Elfsborg",1,1
+"2014-07-12","AIK","Kalmar FF",3,0
+"2014-07-12","Mjällby AIF","Falkenbergs FF",1,1
+"2014-07-12","Malmö FF","Åtvidabergs FF",3,0
+"2014-07-13","Helsingborgs IF","Gefle IF",1,1
+"2014-07-13","Halmstads BK","IFK Göteborg",2,2
+"2014-07-13","IF Elfsborg","IF Brommapojkarna",2,2
+"2014-07-13","BK Häcken","Örebro SK",4,1
+"2014-07-14","IFK Norrköping","Djurgårdens IF",3,5
+"2014-07-19","Gefle IF","Halmstads BK",2,0
+"2014-07-19","Kalmar FF","Malmö FF",1,1
+"2014-07-20","IFK Göteborg","Mjällby AIF",3,1
+"2014-07-20","Falkenbergs FF","AIK",4,1
+"2014-07-20","Örebro SK","Helsingborgs IF",1,1
+"2014-07-20","IFK Norrköping","IF Elfsborg",4,2
+"2014-07-20","Åtvidabergs FF","IF Brommapojkarna",3,2
+"2014-07-21","Djurgårdens IF","BK Häcken",1,2
+"2014-07-26","Malmö FF","Kalmar FF",3,1
+"2014-07-26","Halmstads BK","Gefle IF",3,2
+"2014-07-27","Mjällby AIF","IFK Göteborg",3,0
+"2014-07-27","IF Brommapojkarna","Åtvidabergs FF",2,2
+"2014-07-27","Helsingborgs IF","Örebro SK",1,1
+"2014-07-27","IF Elfsborg","IFK Norrköping",3,0
+"2014-07-28","AIK","Falkenbergs FF",3,0
+"2014-07-28","BK Häcken","Djurgårdens IF",2,1
+"2014-08-02","IFK Norrköping","BK Häcken",0,0
+"2014-08-02","Örebro SK","Halmstads BK",1,2
+"2014-08-02","Falkenbergs FF","Malmö FF",2,5
+"2014-08-03","Kalmar FF","IF Brommapojkarna",1,1
+"2014-08-03","IF Elfsborg","Åtvidabergs FF",1,0
+"2014-08-04","Djurgårdens IF","Helsingborgs IF",2,2
+"2014-08-04","Gefle IF","Mjällby AIF",1,0
+"2014-08-04","IFK Göteborg","AIK",0,2
+"2014-08-09","Mjällby AIF","Örebro SK",0,1
+"2014-08-09","Åtvidabergs FF","Kalmar FF",3,1
+"2014-08-10","Helsingborgs IF","IFK Norrköping",0,0
+"2014-08-10","Halmstads BK","Djurgårdens IF",2,1
+"2014-08-10","AIK","Gefle IF",3,1
+"2014-08-10","Malmö FF","IFK Göteborg",2,2
+"2014-08-10","IF Brommapojkarna","Falkenbergs FF",2,3
+"2014-08-11","BK Häcken","IF Elfsborg",0,2
+"2014-08-13","Malmö FF","Örebro SK",3,2
+"2014-08-13","IF Brommapojkarna","Gefle IF",1,2
+"2014-08-13","Åtvidabergs FF","IFK Göteborg",1,1
+"2014-08-13","AIK","Djurgårdens IF",1,1
+"2014-08-14","Kalmar FF","Falkenbergs FF",3,1
+"2014-08-14","Halmstads BK","BK Häcken",1,4
+"2014-08-14","Mjällby AIF","IFK Norrköping",3,1
+"2014-08-14","Helsingborgs IF","IF Elfsborg",4,1
+"2014-08-16","Gefle IF","Malmö FF",0,0
+"2014-08-17","Örebro SK","AIK",4,2
+"2014-08-17","Falkenbergs FF","Åtvidabergs FF",3,0
+"2014-08-17","IF Elfsborg","Kalmar FF",2,0
+"2014-08-17","IFK Göteborg","IF Brommapojkarna",3,0
+"2014-08-18","IFK Norrköping","Halmstads BK",1,2
+"2014-08-18","Djurgårdens IF","Mjällby AIF",4,0
+"2014-08-18","BK Häcken","Helsingborgs IF",1,1
+"2014-08-22","Mjällby AIF","Helsingborgs IF",1,2
+"2014-08-23","Malmö FF","IFK Norrköping",3,0
+"2014-08-24","Falkenbergs FF","IFK Göteborg",1,2
+"2014-08-24","AIK","BK Häcken",1,0
+"2014-08-24","Halmstads BK","IF Elfsborg",1,1
+"2014-08-25","Kalmar FF","Gefle IF",2,1
+"2014-08-25","Åtvidabergs FF","Örebro SK",1,2
+"2014-08-25","IF Brommapojkarna","Djurgårdens IF",0,4
+"2014-08-29","Helsingborgs IF","Halmstads BK",1,4
+"2014-08-29","Örebro SK","IF Brommapojkarna",3,1
+"2014-08-30","BK Häcken","Mjällby AIF",1,1
+"2014-08-30","Gefle IF","Åtvidabergs FF",0,1
+"2014-08-31","IFK Göteborg","Kalmar FF",2,0
+"2014-08-31","IFK Norrköping","AIK",2,4
+"2014-08-31","IF Elfsborg","Falkenbergs FF",1,0
+"2014-08-31","Djurgårdens IF","Malmö FF",2,0
+"2014-09-13","BK Häcken","Malmö FF",3,3
+"2014-09-14","Gefle IF","Falkenbergs FF",3,1
+"2014-09-14","Halmstads BK","Mjällby AIF",1,2
+"2014-09-14","IF Elfsborg","IFK Göteborg",0,0
+"2014-09-14","Djurgårdens IF","Åtvidabergs FF",0,1
+"2014-09-15","Örebro SK","Kalmar FF",2,0
+"2014-09-15","IFK Norrköping","IF Brommapojkarna",3,1
+"2014-09-15","Helsingborgs IF","AIK",3,1
+"2014-09-19","IFK Göteborg","Gefle IF",4,0
+"2014-09-20","Falkenbergs FF","Örebro SK",1,3
+"2014-09-20","IF Brommapojkarna","BK Häcken",1,5
+"2014-09-21","AIK","Halmstads BK",0,1
+"2014-09-21","Kalmar FF","Djurgårdens IF",0,4
+"2014-09-21","Mjällby AIF","IF Elfsborg",1,0
+"2014-09-21","Malmö FF","Helsingborgs IF",1,1
+"2014-09-22","Åtvidabergs FF","IFK Norrköping",2,2
+"2014-09-24","Mjällby AIF","AIK",1,0
+"2014-09-24","Örebro SK","IFK Göteborg",3,4
+"2014-09-24","Djurgårdens IF","Falkenbergs FF",1,0
+"2014-09-24","IF Elfsborg","Gefle IF",1,0
+"2014-09-24","Halmstads BK","Malmö FF",0,1
+"2014-09-24","Helsingborgs IF","IF Brommapojkarna",3,1
+"2014-09-25","IFK Norrköping","Kalmar FF",0,0
+"2014-09-25","BK Häcken","Åtvidabergs FF",0,2
+"2014-09-27","Malmö FF","Mjällby AIF",4,1
+"2014-09-28","Kalmar FF","BK Häcken",2,3
+"2014-09-28","Falkenbergs FF","IFK Norrköping",4,2
+"2014-09-28","IF Elfsborg","AIK",1,1
+"2014-09-29","Gefle IF","Örebro SK",1,2
+"2014-09-29","IF Brommapojkarna","Halmstads BK",0,3
+"2014-09-29","Åtvidabergs FF","Helsingborgs IF",1,2
+"2014-09-29","IFK Göteborg","Djurgårdens IF",2,1
+"2014-10-03","Helsingborgs IF","Kalmar FF",4,1
+"2014-10-04","Djurgårdens IF","Gefle IF",1,2
+"2014-10-04","Mjällby AIF","IF Brommapojkarna",0,1
+"2014-10-05","IFK Norrköping","IFK Göteborg",3,0
+"2014-10-05","Örebro SK","IF Elfsborg",5,1
+"2014-10-05","Halmstads BK","Åtvidabergs FF",1,3
+"2014-10-05","AIK","Malmö FF",2,3
+"2014-10-05","BK Häcken","Falkenbergs FF",1,2
+"2014-10-18","Malmö FF","IF Elfsborg",1,2
+"2014-10-18","Åtvidabergs FF","Mjällby AIF",2,1
+"2014-10-18","Kalmar FF","Halmstads BK",1,3
+"2014-10-19","IFK Göteborg","BK Häcken",3,2
+"2014-10-19","Gefle IF","IFK Norrköping",1,2
+"2014-10-19","IF Brommapojkarna","AIK",0,4
+"2014-10-20","Djurgårdens IF","Örebro SK",0,3
+"2014-10-20","Falkenbergs FF","Helsingborgs IF",2,0
+"2014-10-25","BK Häcken","Gefle IF",3,1
+"2014-10-26","AIK","Åtvidabergs FF",4,1
+"2014-10-26","IFK Norrköping","Örebro SK",2,0
+"2014-10-26","Halmstads BK","Falkenbergs FF",4,0
+"2014-10-26","IF Elfsborg","Djurgårdens IF",0,1
+"2014-10-27","Mjällby AIF","Kalmar FF",0,2
+"2014-10-27","Malmö FF","IF Brommapojkarna",2,0
+"2014-10-27","Helsingborgs IF","IFK Göteborg",0,3
+"2014-11-01","Djurgårdens IF","IFK Norrköping",1,1
+"2014-11-01","Örebro SK","BK Häcken",5,2
+"2014-11-01","Gefle IF","Helsingborgs IF",2,1
+"2014-11-01","IFK Göteborg","Halmstads BK",5,1
+"2014-11-01","Falkenbergs FF","Mjällby AIF",1,1
+"2014-11-01","Kalmar FF","AIK",1,1
+"2014-11-01","IF Brommapojkarna","IF Elfsborg",0,1
+"2014-11-01","Åtvidabergs FF","Malmö FF",2,1

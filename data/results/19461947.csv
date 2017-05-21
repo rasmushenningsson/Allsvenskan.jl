@@ -1,0 +1,133 @@
+"Date","HomeTeam","AwayTeam","HomeScore","AwayScore"
+"1946-07-26","GAIS","IF Elfsborg",1,5
+"1946-07-28","IFK Norrköping","Örebro SK",5,0
+"1946-07-28","Malmö FF","Billingsfors IK",6,0
+"1946-07-28","IS Halmia","Djurgårdens IF",1,0
+"1946-07-28","Degerfors IF","Helsingborgs IF",2,1
+"1946-07-28","AIK","IFK Göteborg",4,4
+"1946-08-04","Örebro SK","AIK",2,5
+"1946-08-04","Helsingborgs IF","IFK Norrköping",1,3
+"1946-08-04","IFK Göteborg","Malmö FF",0,0
+"1946-08-04","IF Elfsborg","IS Halmia",2,2
+"1946-08-04","Djurgårdens IF","Degerfors IF",1,1
+"1946-08-04","Billingsfors IK","GAIS",2,3
+"1946-08-11","IFK Norrköping","Djurgårdens IF",3,1
+"1946-08-11","Malmö FF","Örebro SK",3,3
+"1946-08-11","GAIS","IS Halmia",0,1
+"1946-08-11","Degerfors IF","IF Elfsborg",0,1
+"1946-08-11","Billingsfors IK","IFK Göteborg",1,3
+"1946-08-11","AIK","Helsingborgs IF",2,0
+"1946-08-16","IFK Göteborg","GAIS",2,2
+"1946-08-16","Djurgårdens IF","AIK",0,2
+"1946-08-18","Örebro SK","Billingsfors IK",6,1
+"1946-08-18","Helsingborgs IF","Malmö FF",1,2
+"1946-08-18","IS Halmia","Degerfors IF",0,1
+"1946-08-18","IF Elfsborg","IFK Norrköping",2,0
+"1946-08-25","Örebro SK","IF Elfsborg",1,2
+"1946-08-25","IFK Norrköping","IS Halmia",4,0
+"1946-08-25","GAIS","AIK",0,3
+"1946-09-01","Helsingborgs IF","IFK Göteborg",2,0
+"1946-09-01","IS Halmia","AIK",0,0
+"1946-09-01","GAIS","Örebro SK",5,2
+"1946-09-01","IF Elfsborg","Malmö FF",1,2
+"1946-09-01","Djurgårdens IF","Billingsfors IK",1,1
+"1946-09-01","Degerfors IF","IFK Norrköping",2,1
+"1946-09-08","Örebro SK","Helsingborgs IF",1,3
+"1946-09-08","IFK Norrköping","GAIS",1,1
+"1946-09-08","Malmö FF","IS Halmia",5,1
+"1946-09-08","IFK Göteborg","Djurgårdens IF",3,2
+"1946-09-08","Billingsfors IK","IF Elfsborg",2,2
+"1946-09-08","AIK","Degerfors IF",2,1
+"1946-09-22","IFK Norrköping","IFK Göteborg",4,3
+"1946-09-22","IS Halmia","Helsingborgs IF",4,2
+"1946-09-22","GAIS","Malmö FF",3,3
+"1946-09-22","IF Elfsborg","Djurgårdens IF",6,3
+"1946-09-22","Degerfors IF","Örebro SK",4,1
+"1946-09-22","AIK","Billingsfors IK",6,2
+"1946-09-29","Örebro SK","IS Halmia",2,0
+"1946-09-29","Malmö FF","AIK",4,0
+"1946-09-29","Helsingborgs IF","IF Elfsborg",4,3
+"1946-09-29","IFK Göteborg","Degerfors IF",3,2
+"1946-09-29","Djurgårdens IF","GAIS",2,1
+"1946-09-29","Billingsfors IK","IFK Norrköping",0,4
+"1946-10-06","Djurgårdens IF","Örebro SK",4,2
+"1946-10-12","Djurgårdens IF","Helsingborgs IF",4,1
+"1946-10-13","IFK Norrköping","Malmö FF",3,0
+"1946-10-13","IS Halmia","IFK Göteborg",2,2
+"1946-10-13","IF Elfsborg","Örebro SK",2,3
+"1946-10-13","Degerfors IF","Billingsfors IK",4,1
+"1946-10-20","Örebro SK","Djurgårdens IF",1,3
+"1946-10-20","Malmö FF","Degerfors IF",2,1
+"1946-10-20","Helsingborgs IF","GAIS",0,1
+"1946-10-20","IFK Göteborg","IF Elfsborg",2,4
+"1946-10-20","Billingsfors IK","IS Halmia",4,6
+"1946-10-20","AIK","IFK Norrköping",3,3
+"1946-10-27","Örebro SK","IFK Göteborg",1,7
+"1946-10-27","Helsingborgs IF","Billingsfors IK",1,0
+"1946-10-27","IS Halmia","IFK Norrköping",0,0
+"1946-10-27","GAIS","Degerfors IF",0,0
+"1946-10-27","IF Elfsborg","AIK",0,2
+"1946-10-27","Djurgårdens IF","Malmö FF",2,1
+"1946-11-03","Malmö FF","Djurgårdens IF",1,1
+"1946-11-03","IFK Göteborg","Örebro SK",8,2
+"1946-11-03","Degerfors IF","GAIS",0,2
+"1946-11-03","Billingsfors IK","Helsingborgs IF",3,5
+"1946-11-03","AIK","IF Elfsborg",4,2
+"1946-11-10","IS Halmia","Billingsfors IK",6,1
+"1946-11-10","GAIS","Helsingborgs IF",2,3
+"1946-11-10","IF Elfsborg","IFK Göteborg",5,1
+"1946-11-10","Degerfors IF","Malmö FF",1,1
+"1947-04-13","Malmö FF","IFK Norrköping",1,1
+"1947-04-13","Helsingborgs IF","Djurgårdens IF",3,1
+"1947-04-13","IFK Göteborg","IS Halmia",4,2
+"1947-04-20","Helsingborgs IF","Örebro SK",3,0
+"1947-04-20","IS Halmia","Malmö FF",3,1
+"1947-04-20","GAIS","IFK Norrköping",0,3
+"1947-04-20","IF Elfsborg","Billingsfors IK",5,1
+"1947-04-20","Djurgårdens IF","IFK Göteborg",4,1
+"1947-04-20","Degerfors IF","AIK",2,1
+"1947-04-27","Örebro SK","GAIS",3,2
+"1947-04-27","IFK Norrköping","Degerfors IF",2,0
+"1947-04-27","Malmö FF","IF Elfsborg",2,0
+"1947-04-27","IFK Göteborg","Helsingborgs IF",2,0
+"1947-04-27","Billingsfors IK","Djurgårdens IF",0,2
+"1947-04-27","AIK","IS Halmia",6,1
+"1947-05-01","Billingsfors IK","Degerfors IF",1,3
+"1947-05-01","IFK Norrköping","AIK",4,3
+"1947-05-04","IFK Norrköping","Billingsfors IK",3,0
+"1947-05-04","IS Halmia","Örebro SK",0,1
+"1947-05-04","GAIS","Djurgårdens IF",0,1
+"1947-05-04","IF Elfsborg","Helsingborgs IF",4,0
+"1947-05-04","Degerfors IF","IFK Göteborg",2,2
+"1947-05-04","AIK","Malmö FF",2,0
+"1947-05-11","Örebro SK","Degerfors IF",1,3
+"1947-05-11","Malmö FF","GAIS",2,2
+"1947-05-11","Helsingborgs IF","IS Halmia",4,2
+"1947-05-11","IFK Göteborg","IFK Norrköping",0,3
+"1947-05-11","Djurgårdens IF","IF Elfsborg",1,2
+"1947-05-11","Billingsfors IK","AIK",1,3
+"1947-05-15","IFK Norrköping","Helsingborgs IF",8,1
+"1947-05-15","Malmö FF","IFK Göteborg",6,0
+"1947-05-15","IS Halmia","IF Elfsborg",2,0
+"1947-05-15","GAIS","Billingsfors IK",3,2
+"1947-05-15","Degerfors IF","Djurgårdens IF",2,2
+"1947-05-15","AIK","Örebro SK",3,1
+"1947-05-18","Örebro SK","IFK Norrköping",2,6
+"1947-05-18","Helsingborgs IF","Degerfors IF",4,1
+"1947-05-18","IFK Göteborg","AIK",1,0
+"1947-05-18","IF Elfsborg","GAIS",4,1
+"1947-05-18","Djurgårdens IF","IS Halmia",2,3
+"1947-05-18","Billingsfors IK","Malmö FF",2,5
+"1947-05-21","Malmö FF","Helsingborgs IF",2,1
+"1947-05-23","GAIS","IFK Göteborg",0,0
+"1947-05-23","AIK","Djurgårdens IF",5,0
+"1947-05-26","IFK Norrköping","IF Elfsborg",6,0
+"1947-05-26","Degerfors IF","IS Halmia",1,1
+"1947-05-26","Billingsfors IK","Örebro SK",3,3
+"1947-05-26","AIK","GAIS",0,0
+"1947-06-01","Örebro SK","Malmö FF",2,2
+"1947-06-01","Helsingborgs IF","AIK",4,3
+"1947-06-01","IS Halmia","GAIS",1,1
+"1947-06-01","IFK Göteborg","Billingsfors IK",4,0
+"1947-06-01","IF Elfsborg","Degerfors IF",3,2
+"1947-06-01","Djurgårdens IF","IFK Norrköping",3,6

@@ -1,0 +1,133 @@
+"Date","HomeTeam","AwayTeam","HomeScore","AwayScore"
+"1952-08-08","Helsingborgs IF","IFK Malmö",5,1
+"1952-08-08","AIK","Djurgårdens IF",0,0
+"1952-08-10","Malmö FF","IF Elfsborg",1,3
+"1952-08-10","Jönköpings Södra IF","IFK Norrköping",2,3
+"1952-08-10","GAIS","Örebro SK",3,1
+"1952-08-10","Degerfors IF","IFK Göteborg",4,0
+"1952-08-15","Helsingborgs IF","Malmö FF",1,1
+"1952-08-17","Örebro SK","Jönköpings Södra IF",2,4
+"1952-08-17","IFK Malmö","IFK Norrköping",0,3
+"1952-08-17","IFK Göteborg","AIK",5,3
+"1952-08-17","IF Elfsborg","Degerfors IF",1,2
+"1952-08-17","Djurgårdens IF","GAIS",1,5
+"1952-08-22","Malmö FF","IFK Malmö",4,1
+"1952-08-22","GAIS","IFK Göteborg",2,4
+"1952-08-24","IFK Norrköping","Örebro SK",3,0
+"1952-08-24","Jönköpings Södra IF","Djurgårdens IF",1,1
+"1952-08-24","Degerfors IF","Helsingborgs IF",1,4
+"1952-08-24","AIK","IF Elfsborg",1,3
+"1952-08-31","Örebro SK","Degerfors IF",0,2
+"1952-08-31","IFK Norrköping","AIK",1,0
+"1952-08-31","IFK Malmö","IF Elfsborg",2,0
+"1952-08-31","Jönköpings Södra IF","GAIS",4,3
+"1952-08-31","IFK Göteborg","Helsingborgs IF",2,1
+"1952-08-31","Djurgårdens IF","Malmö FF",2,1
+"1952-09-07","Malmö FF","Örebro SK",2,1
+"1952-09-07","Helsingborgs IF","Djurgårdens IF",1,1
+"1952-09-07","GAIS","IFK Malmö",4,0
+"1952-09-07","IF Elfsborg","IFK Göteborg",6,2
+"1952-09-07","Degerfors IF","IFK Norrköping",1,1
+"1952-09-07","AIK","Jönköpings Södra IF",3,1
+"1952-09-14","Örebro SK","Helsingborgs IF",1,1
+"1952-09-14","IFK Norrköping","Malmö FF",2,0
+"1952-09-14","IFK Malmö","IFK Göteborg",2,0
+"1952-09-14","Jönköpings Södra IF","Degerfors IF",2,2
+"1952-09-14","GAIS","AIK",1,2
+"1952-09-14","Djurgårdens IF","IF Elfsborg",0,1
+"1952-09-28","Malmö FF","Jönköpings Södra IF",5,3
+"1952-09-28","Helsingborgs IF","IFK Norrköping",2,1
+"1952-09-28","IFK Göteborg","Djurgårdens IF",1,4
+"1952-09-28","IF Elfsborg","Örebro SK",2,1
+"1952-09-28","Degerfors IF","GAIS",5,0
+"1952-09-28","AIK","IFK Malmö",3,1
+"1952-10-12","Örebro SK","IFK Göteborg",2,1
+"1952-10-12","IFK Norrköping","IF Elfsborg",1,3
+"1952-10-12","IFK Malmö","Djurgårdens IF",1,2
+"1952-10-12","Jönköpings Södra IF","Helsingborgs IF",0,0
+"1952-10-12","GAIS","Malmö FF",2,1
+"1952-10-12","AIK","Degerfors IF",3,0
+"1952-10-19","Malmö FF","AIK",6,1
+"1952-10-19","Helsingborgs IF","GAIS",2,0
+"1952-10-19","IFK Göteborg","IFK Norrköping",1,5
+"1952-10-19","IF Elfsborg","Jönköpings Södra IF",0,2
+"1952-10-19","Djurgårdens IF","Örebro SK",5,1
+"1952-10-19","Degerfors IF","IFK Malmö",7,0
+"1952-11-02","IFK Norrköping","Djurgårdens IF",2,2
+"1952-11-02","IFK Malmö","Örebro SK",0,0
+"1952-11-02","Jönköpings Södra IF","IFK Göteborg",0,1
+"1952-11-02","GAIS","IF Elfsborg",1,1
+"1952-11-02","Degerfors IF","Malmö FF",2,3
+"1952-11-02","AIK","Helsingborgs IF",1,1
+"1952-11-09","Örebro SK","IFK Malmö",2,1
+"1952-11-09","Malmö FF","Degerfors IF",4,3
+"1952-11-09","Helsingborgs IF","AIK",1,1
+"1952-11-09","IFK Göteborg","Jönköpings Södra IF",1,1
+"1952-11-09","IF Elfsborg","GAIS",1,6
+"1952-11-09","Djurgårdens IF","IFK Norrköping",1,0
+"1952-11-16","Örebro SK","AIK",2,0
+"1952-11-16","IFK Norrköping","GAIS",5,0
+"1952-11-16","IFK Malmö","Jönköpings Södra IF",3,3
+"1952-11-16","IFK Göteborg","Malmö FF",1,4
+"1952-11-16","IF Elfsborg","Helsingborgs IF",1,2
+"1952-11-16","Djurgårdens IF","Degerfors IF",1,2
+"1953-04-12","Malmö FF","IFK Göteborg",1,0
+"1953-04-12","Jönköpings Södra IF","IFK Malmö",1,1
+"1953-04-12","Helsingborgs IF","IF Elfsborg",2,0
+"1953-04-12","GAIS","IFK Norrköping",1,3
+"1953-04-12","Degerfors IF","Djurgårdens IF",1,2
+"1953-04-12","AIK","Örebro SK",0,1
+"1953-04-19","Örebro SK","GAIS",1,3
+"1953-04-19","IFK Norrköping","Jönköpings Södra IF",3,4
+"1953-04-19","IFK Malmö","Helsingborgs IF",1,2
+"1953-04-19","IFK Göteborg","Degerfors IF",2,0
+"1953-04-19","IF Elfsborg","Malmö FF",2,2
+"1953-04-19","Djurgårdens IF","AIK",1,2
+"1953-04-26","Örebro SK","Djurgårdens IF",0,2
+"1953-04-26","IFK Norrköping","IFK Göteborg",5,0
+"1953-04-26","IFK Malmö","Degerfors IF",3,0
+"1953-04-26","Jönköpings Södra IF","IF Elfsborg",3,0
+"1953-04-26","GAIS","Helsingborgs IF",2,0
+"1953-04-26","AIK","Malmö FF",1,1
+"1953-05-03","Malmö FF","GAIS",6,2
+"1953-05-03","Helsingborgs IF","Jönköpings Södra IF",2,2
+"1953-05-03","IFK Göteborg","Örebro SK",3,3
+"1953-05-03","IF Elfsborg","IFK Norrköping",1,0
+"1953-05-03","Djurgårdens IF","IFK Malmö",3,2
+"1953-05-03","Degerfors IF","AIK",0,1
+"1953-05-10","Örebro SK","IF Elfsborg",1,0
+"1953-05-10","IFK Norrköping","Helsingborgs IF",1,0
+"1953-05-10","IFK Malmö","AIK",3,0
+"1953-05-10","Jönköpings Södra IF","Malmö FF",0,4
+"1953-05-10","GAIS","Degerfors IF",3,1
+"1953-05-10","Djurgårdens IF","IFK Göteborg",4,0
+"1953-05-14","Malmö FF","IFK Norrköping",6,0
+"1953-05-14","Helsingborgs IF","Örebro SK",0,0
+"1953-05-14","IFK Göteborg","IFK Malmö",2,1
+"1953-05-14","IF Elfsborg","Djurgårdens IF",0,1
+"1953-05-14","Degerfors IF","Jönköpings Södra IF",1,0
+"1953-05-14","AIK","GAIS",2,3
+"1953-05-17","Örebro SK","IFK Norrköping",1,3
+"1953-05-17","Helsingborgs IF","Degerfors IF",0,2
+"1953-05-17","IF Elfsborg","AIK",1,2
+"1953-05-17","Djurgårdens IF","Jönköpings Södra IF",1,2
+"1953-05-20","IFK Malmö","Malmö FF",1,2
+"1953-05-22","IFK Göteborg","GAIS",2,1
+"1953-05-25","IFK Norrköping","IFK Malmö",2,1
+"1953-05-25","Jönköpings Södra IF","Örebro SK",2,1
+"1953-05-25","GAIS","Djurgårdens IF",3,2
+"1953-05-25","Degerfors IF","IF Elfsborg",2,2
+"1953-05-25","AIK","IFK Göteborg",4,0
+"1953-05-26","Malmö FF","Helsingborgs IF",1,0
+"1953-05-29","IFK Göteborg","IF Elfsborg",2,0
+"1953-05-31","Örebro SK","Malmö FF",0,2
+"1953-05-31","IFK Norrköping","Degerfors IF",2,2
+"1953-05-31","IFK Malmö","GAIS",4,1
+"1953-05-31","Jönköpings Södra IF","AIK",1,2
+"1953-05-31","Djurgårdens IF","Helsingborgs IF",1,5
+"1953-06-07","Malmö FF","Djurgårdens IF",3,4
+"1953-06-07","Helsingborgs IF","IFK Göteborg",1,2
+"1953-06-07","GAIS","Jönköpings Södra IF",4,2
+"1953-06-07","IF Elfsborg","IFK Malmö",0,0
+"1953-06-07","Degerfors IF","Örebro SK",1,2
+"1953-06-07","AIK","IFK Norrköping",4,3

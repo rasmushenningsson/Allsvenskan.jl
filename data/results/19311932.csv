@@ -1,0 +1,133 @@
+"Date","HomeTeam","AwayTeam","HomeScore","AwayScore"
+"1931-08-02","IK Sleipner","IFK Malmö",4,0
+"1931-08-02","Malmö FF","IFK Göteborg",0,1
+"1931-08-02","Landskrona BoIS","Örgryte IS",3,7
+"1931-08-02","Hallstahammars SK","AIK",1,3
+"1931-08-02","GAIS","IFK Eskilstuna",1,3
+"1931-08-02","IF Elfsborg","Helsingborgs IF",1,0
+"1931-08-07","IFK Göteborg","GAIS",1,2
+"1931-08-09","Örgryte IS","IFK Malmö",4,1
+"1931-08-09","IK Sleipner","IF Elfsborg",2,3
+"1931-08-09","Malmö FF","AIK",2,4
+"1931-08-09","Helsingborgs IF","Hallstahammars SK",0,1
+"1931-08-09","IFK Eskilstuna","Landskrona BoIS",7,0
+"1931-08-12","Malmö FF","Landskrona BoIS",6,1
+"1931-08-14","GAIS","Örgryte IS",2,2
+"1931-08-14","AIK","IFK Eskilstuna",2,1
+"1931-08-16","IFK Malmö","IF Elfsborg",2,1
+"1931-08-16","Hallstahammars SK","Malmö FF",4,0
+"1931-08-16","IFK Göteborg","IK Sleipner",5,2
+"1931-08-19","Helsingborgs IF","IFK Malmö",2,2
+"1931-08-21","Örgryte IS","IFK Göteborg",0,1
+"1931-08-23","IFK Malmö","Malmö FF",1,2
+"1931-08-23","Helsingborgs IF","Örgryte IS",3,5
+"1931-08-23","Hallstahammars SK","IFK Eskilstuna",3,4
+"1931-08-23","GAIS","Landskrona BoIS",2,0
+"1931-08-23","IF Elfsborg","AIK",1,2
+"1931-08-26","Landskrona BoIS","Helsingborgs IF",1,0
+"1931-08-30","Örgryte IS","Malmö FF",1,2
+"1931-08-30","IK Sleipner","Helsingborgs IF",3,0
+"1931-08-30","IFK Malmö","AIK",1,1
+"1931-08-30","Hallstahammars SK","Landskrona BoIS",2,2
+"1931-08-30","IFK Eskilstuna","IFK Göteborg",1,0
+"1931-08-30","IF Elfsborg","GAIS",1,1
+"1931-09-06","IFK Malmö","GAIS",2,2
+"1931-09-06","Landskrona BoIS","IK Sleipner",0,0
+"1931-09-06","IFK Göteborg","IF Elfsborg",4,1
+"1931-09-06","IFK Eskilstuna","Helsingborgs IF",2,3
+"1931-09-06","AIK","Hallstahammars SK",7,1
+"1931-09-13","IK Sleipner","Örgryte IS",2,0
+"1931-09-13","Malmö FF","IFK Eskilstuna",2,3
+"1931-09-13","Landskrona BoIS","IFK Malmö",4,2
+"1931-09-13","Hallstahammars SK","Helsingborgs IF",1,2
+"1931-09-13","GAIS","AIK",2,2
+"1931-09-13","IF Elfsborg","IFK Göteborg",2,3
+"1931-09-20","Örgryte IS","IF Elfsborg",3,2
+"1931-09-20","IK Sleipner","GAIS",2,2
+"1931-09-20","IFK Malmö","IFK Göteborg",1,5
+"1931-09-20","Landskrona BoIS","Hallstahammars SK",1,1
+"1931-09-20","Helsingborgs IF","Malmö FF",5,2
+"1931-09-20","IFK Eskilstuna","AIK",3,3
+"1931-09-27","IK Sleipner","Hallstahammars SK",1,1
+"1931-10-04","Malmö FF","GAIS",3,3
+"1931-10-04","Hallstahammars SK","IK Sleipner",0,2
+"1931-10-04","IFK Göteborg","Helsingborgs IF",1,1
+"1931-10-04","IFK Eskilstuna","IFK Malmö",0,1
+"1931-10-04","IF Elfsborg","Landskrona BoIS",2,2
+"1931-10-04","AIK","Örgryte IS",1,1
+"1931-10-11","IFK Malmö","IFK Eskilstuna",3,3
+"1931-10-11","Landskrona BoIS","Malmö FF",4,0
+"1931-10-11","Helsingborgs IF","IFK Göteborg",5,1
+"1931-10-11","Hallstahammars SK","Örgryte IS",2,2
+"1931-10-11","GAIS","IK Sleipner",1,1
+"1931-10-11","AIK","IF Elfsborg",3,1
+"1931-10-18","Örgryte IS","Landskrona BoIS",5,2
+"1931-10-18","IK Sleipner","IFK Göteborg",1,1
+"1931-10-18","Malmö FF","IF Elfsborg",2,0
+"1931-10-18","IFK Eskilstuna","GAIS",2,0
+"1931-10-18","AIK","IFK Malmö",3,2
+"1931-10-25","IFK Malmö","Örgryte IS",1,3
+"1931-10-25","Landskrona BoIS","IFK Eskilstuna",5,0
+"1931-10-25","Helsingborgs IF","IK Sleipner",3,2
+"1931-10-25","Hallstahammars SK","GAIS",3,5
+"1931-10-25","IFK Göteborg","AIK",2,1
+"1931-10-25","IF Elfsborg","Malmö FF",3,3
+"1931-11-01","Malmö FF","Örgryte IS",4,5
+"1931-11-01","Helsingborgs IF","IFK Eskilstuna",2,1
+"1931-11-01","GAIS","Hallstahammars SK",2,0
+"1931-11-01","AIK","IFK Göteborg",3,0
+"1931-11-08","IF Elfsborg","IK Sleipner",1,0
+"1932-04-03","IFK Göteborg","Landskrona BoIS",2,2
+"1932-04-03","GAIS","IF Elfsborg",2,1
+"1932-04-10","Örgryte IS","IK Sleipner",4,1
+"1932-04-10","Malmö FF","Helsingborgs IF",3,5
+"1932-04-10","IFK Göteborg","Hallstahammars SK",6,1
+"1932-04-17","IFK Malmö","Hallstahammars SK",2,2
+"1932-04-17","Landskrona BoIS","AIK",3,5
+"1932-04-17","GAIS","Malmö FF",3,0
+"1932-04-17","IFK Eskilstuna","IK Sleipner",6,0
+"1932-04-17","IF Elfsborg","Örgryte IS",3,3
+"1932-04-24","Örgryte IS","IFK Eskilstuna",3,2
+"1932-04-24","Malmö FF","IK Sleipner",2,4
+"1932-04-24","Landskrona BoIS","GAIS",0,1
+"1932-04-24","Hallstahammars SK","IF Elfsborg",1,2
+"1932-04-24","AIK","Helsingborgs IF",2,0
+"1932-05-01","IFK Göteborg","Malmö FF",6,1
+"1932-05-01","IK Sleipner","IFK Eskilstuna",4,0
+"1932-05-01","IF Elfsborg","IFK Malmö",3,0
+"1932-05-01","AIK","Landskrona BoIS",3,3
+"1932-05-05","IK Sleipner","AIK",1,3
+"1932-05-05","IFK Malmö","Landskrona BoIS",5,0
+"1932-05-05","GAIS","Helsingborgs IF",4,2
+"1932-05-05","IFK Eskilstuna","Malmö FF",3,3
+"1932-05-05","IF Elfsborg","Hallstahammars SK",4,0
+"1932-05-08","Örgryte IS","Hallstahammars SK",6,0
+"1932-05-08","IK Sleipner","Malmö FF",3,0
+"1932-05-08","Landskrona BoIS","IFK Göteborg",0,0
+"1932-05-08","Helsingborgs IF","AIK",1,1
+"1932-05-08","GAIS","IFK Malmö",4,0
+"1932-05-08","IFK Eskilstuna","IF Elfsborg",0,0
+"1932-05-13","Helsingborgs IF","Landskrona BoIS",5,1
+"1932-05-13","AIK","IK Sleipner",2,0
+"1932-05-13","Malmö FF","IFK Malmö",3,2
+"1932-05-13","IFK Göteborg","Örgryte IS",1,4
+"1932-05-16","Hallstahammars SK","IFK Malmö",2,2
+"1932-05-16","Landskrona BoIS","IF Elfsborg",0,2
+"1932-05-16","Helsingborgs IF","GAIS",3,2
+"1932-05-16","IFK Göteborg","IFK Eskilstuna",2,4
+"1932-05-20","Örgryte IS","GAIS",0,1
+"1932-05-22","IFK Malmö","Helsingborgs IF",2,1
+"1932-05-22","Örgryte IS","AIK",1,1
+"1932-05-22","IFK Eskilstuna","Hallstahammars SK",3,1
+"1932-05-27","GAIS","IFK Göteborg",2,0
+"1932-05-29","Hallstahammars SK","IFK Göteborg",0,4
+"1932-05-29","IF Elfsborg","IFK Eskilstuna",1,1
+"1932-05-29","Örgryte IS","Helsingborgs IF",3,1
+"1932-05-29","IFK Malmö","IK Sleipner",0,5
+"1932-05-29","AIK","Malmö FF",5,5
+"1932-06-05","IK Sleipner","Landskrona BoIS",1,1
+"1932-06-05","Malmö FF","Hallstahammars SK",3,2
+"1932-06-05","Helsingborgs IF","IF Elfsborg",1,3
+"1932-06-05","IFK Göteborg","IFK Malmö",1,0
+"1932-06-05","IFK Eskilstuna","Örgryte IS",1,5
+"1932-06-05","AIK","GAIS",1,1

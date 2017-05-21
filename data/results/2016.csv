@@ -1,0 +1,241 @@
+"Date","HomeTeam","AwayTeam","HomeScore","AwayScore"
+"2016-04-02","Malmö FF","IFK Norrköping",3,1
+"2016-04-02","Kalmar FF","Jönköpings Södra IF",0,1
+"2016-04-03","BK Häcken","IF Elfsborg",2,1
+"2016-04-03","AIK","GIF Sundsvall",1,1
+"2016-04-03","Gefle IF","Helsingborgs IF",1,1
+"2016-04-03","Falkenbergs FF","IFK Göteborg",0,2
+"2016-04-03","Örebro SK","Djurgårdens IF",0,2
+"2016-04-04","Hammarby IF","Östersunds FK",1,1
+"2016-04-06","Jönköpings Södra IF","Malmö FF",3,2
+"2016-04-06","IFK Norrköping","Kalmar FF",4,1
+"2016-04-06","IFK Göteborg","BK Häcken",1,0
+"2016-04-07","Östersunds FK","AIK",0,2
+"2016-04-07","GIF Sundsvall","Gefle IF",1,2
+"2016-04-07","Helsingborgs IF","Örebro SK",1,3
+"2016-04-07","IF Elfsborg","Hammarby IF",4,1
+"2016-04-07","Djurgårdens IF","Falkenbergs FF",5,0
+"2016-04-09","BK Häcken","IFK Norrköping",1,2
+"2016-04-10","Hammarby IF","Helsingborgs IF",5,1
+"2016-04-10","Gefle IF","Djurgårdens IF",1,2
+"2016-04-10","Kalmar FF","IF Elfsborg",3,2
+"2016-04-10","Falkenbergs FF","Östersunds FK",1,2
+"2016-04-11","AIK","IFK Göteborg",3,3
+"2016-04-11","Malmö FF","GIF Sundsvall",1,2
+"2016-04-11","Örebro SK","Jönköpings Södra IF",2,1
+"2016-04-15","Östersunds FK","BK Häcken",2,1
+"2016-04-16","Helsingborgs IF","Falkenbergs FF",3,1
+"2016-04-17","IFK Norrköping","AIK",4,1
+"2016-04-17","Jönköpings Södra IF","Gefle IF",1,0
+"2016-04-17","IFK Göteborg","Kalmar FF",1,1
+"2016-04-18","IF Elfsborg","Malmö FF",0,1
+"2016-04-18","GIF Sundsvall","Örebro SK",3,1
+"2016-04-19","Djurgårdens IF","Hammarby IF",1,3
+"2016-04-22","Falkenbergs FF","IFK Norrköping",2,1
+"2016-04-23","Hammarby IF","Jönköpings Södra IF",1,1
+"2016-04-23","Gefle IF","Östersunds FK",0,0
+"2016-04-24","Malmö FF","Djurgårdens IF",1,0
+"2016-04-24","BK Häcken","GIF Sundsvall",0,1
+"2016-04-24","Örebro SK","IFK Göteborg",3,2
+"2016-04-25","AIK","IF Elfsborg",2,1
+"2016-04-25","Kalmar FF","Helsingborgs IF",2,3
+"2016-04-26","IFK Norrköping","Hammarby IF",3,1
+"2016-04-27","Östersunds FK","Örebro SK",2,4
+"2016-04-27","Jönköpings Södra IF","Falkenbergs FF",1,1
+"2016-04-27","IFK Göteborg","Malmö FF",0,3
+"2016-04-28","GIF Sundsvall","Kalmar FF",1,1
+"2016-04-28","BK Häcken","Gefle IF",6,1
+"2016-04-28","Helsingborgs IF","AIK",2,1
+"2016-04-28","IF Elfsborg","Djurgårdens IF",3,0
+"2016-05-01","Falkenbergs FF","IF Elfsborg",1,2
+"2016-05-01","Hammarby IF","GIF Sundsvall",1,1
+"2016-05-01","Malmö FF","BK Häcken",3,0
+"2016-05-02","IFK Norrköping","Helsingborgs IF",3,0
+"2016-05-02","Kalmar FF","Örebro SK",3,2
+"2016-05-02","AIK","Jönköpings Södra IF",0,0
+"2016-05-02","Gefle IF","IFK Göteborg",2,6
+"2016-05-02","Djurgårdens IF","Östersunds FK",3,0
+"2016-05-07","Östersunds FK","Kalmar FF",1,0
+"2016-05-07","IF Elfsborg","Gefle IF",2,0
+"2016-05-08","Jönköpings Södra IF","IFK Norrköping",0,2
+"2016-05-08","Helsingborgs IF","Malmö FF",2,1
+"2016-05-08","BK Häcken","AIK",2,3
+"2016-05-09","Örebro SK","Hammarby IF",3,2
+"2016-05-09","GIF Sundsvall","Falkenbergs FF",2,1
+"2016-05-09","IFK Göteborg","Djurgårdens IF",2,1
+"2016-05-13","Jönköpings Södra IF","Helsingborgs IF",1,1
+"2016-05-14","Malmö FF","Gefle IF",3,0
+"2016-05-14","Kalmar FF","Hammarby IF",1,1
+"2016-05-15","IFK Norrköping","GIF Sundsvall",3,1
+"2016-05-15","Örebro SK","IF Elfsborg",1,0
+"2016-05-15","Östersunds FK","IFK Göteborg",2,0
+"2016-05-15","Falkenbergs FF","BK Häcken",1,4
+"2016-05-16","AIK","Djurgårdens IF",2,0
+"2016-05-18","Hammarby IF","Malmö FF",2,3
+"2016-05-18","GIF Sundsvall","IF Elfsborg",1,3
+"2016-05-18","BK Häcken","Jönköpings Södra IF",3,1
+"2016-05-18","Helsingborgs IF","Östersunds FK",1,1
+"2016-05-19","IFK Göteborg","IFK Norrköping",1,1
+"2016-05-19","Gefle IF","Örebro SK",0,4
+"2016-05-19","Djurgårdens IF","Kalmar FF",0,3
+"2016-05-20","Falkenbergs FF","AIK",2,3
+"2016-05-21","GIF Sundsvall","Östersunds FK",5,0
+"2016-05-22","Kalmar FF","BK Häcken",1,1
+"2016-05-22","Örebro SK","IFK Norrköping",2,2
+"2016-05-22","IF Elfsborg","Jönköpings Södra IF",3,3
+"2016-05-22","Djurgårdens IF","Helsingborgs IF",3,0
+"2016-05-23","Gefle IF","AIK",0,1
+"2016-05-23","IFK Göteborg","Hammarby IF",2,1
+"2016-05-23","Malmö FF","Falkenbergs FF",2,0
+"2016-05-28","Östersunds FK","Malmö FF",1,4
+"2016-05-28","Jönköpings Södra IF","GIF Sundsvall",1,1
+"2016-05-28","AIK","Örebro SK",0,0
+"2016-05-29","Hammarby IF","Gefle IF",2,1
+"2016-05-29","Helsingborgs IF","IFK Göteborg",1,3
+"2016-05-29","Falkenbergs FF","Kalmar FF",1,2
+"2016-05-29","IFK Norrköping","IF Elfsborg",0,0
+"2016-05-29","BK Häcken","Djurgårdens IF",3,1
+"2016-07-09","Djurgårdens IF","IFK Norrköping",0,1
+"2016-07-09","BK Häcken","Hammarby IF",4,2
+"2016-07-09","Gefle IF","Falkenbergs FF",1,2
+"2016-07-10","IFK Göteborg","GIF Sundsvall",4,1
+"2016-07-10","Östersunds FK","Jönköpings Södra IF",1,0
+"2016-07-10","Helsingborgs IF","IF Elfsborg",2,4
+"2016-07-10","Kalmar FF","AIK",1,1
+"2016-07-11","Malmö FF","Örebro SK",1,0
+"2016-07-16","IFK Norrköping","Östersunds FK",3,3
+"2016-07-16","GIF Sundsvall","Helsingborgs IF",0,2
+"2016-07-17","IF Elfsborg","IFK Göteborg",1,1
+"2016-07-17","AIK","Malmö FF",1,1
+"2016-07-17","Hammarby IF","Falkenbergs FF",3,3
+"2016-07-17","Örebro SK","BK Häcken",0,0
+"2016-07-18","Gefle IF","Kalmar FF",4,2
+"2016-07-18","Jönköpings Södra IF","Djurgårdens IF",1,0
+"2016-07-23","IFK Norrköping","Gefle IF",2,0
+"2016-07-23","Malmö FF","Kalmar FF",1,1
+"2016-07-23","Falkenbergs FF","Örebro SK",1,3
+"2016-07-24","Hammarby IF","AIK",0,3
+"2016-07-24","IFK Göteborg","Jönköpings Södra IF",2,1
+"2016-07-24","Helsingborgs IF","BK Häcken",0,2
+"2016-07-25","IF Elfsborg","Östersunds FK",3,1
+"2016-07-25","Djurgårdens IF","GIF Sundsvall",1,3
+"2016-07-30","Östersunds FK","IF Elfsborg",0,0
+"2016-07-30","GIF Sundsvall","IFK Norrköping",1,2
+"2016-07-30","Gefle IF","Hammarby IF",0,2
+"2016-07-31","Jönköpings Södra IF","IFK Göteborg",1,1
+"2016-07-31","AIK","Falkenbergs FF",2,0
+"2016-07-31","BK Häcken","Helsingborgs IF",1,1
+"2016-08-01","Örebro SK","Malmö FF",0,3
+"2016-08-01","Kalmar FF","Djurgårdens IF",2,1
+"2016-08-05","Helsingborgs IF","Gefle IF",2,3
+"2016-08-06","Östersunds FK","GIF Sundsvall",4,0
+"2016-08-06","Falkenbergs FF","Jönköpings Södra IF",0,5
+"2016-08-07","Malmö FF","AIK",2,0
+"2016-08-07","IF Elfsborg","BK Häcken",2,4
+"2016-08-07","Hammarby IF","Kalmar FF",2,1
+"2016-08-07","IFK Norrköping","Örebro SK",3,1
+"2016-08-08","Djurgårdens IF","IFK Göteborg",3,1
+"2016-08-12","IFK Göteborg","Falkenbergs FF",2,0
+"2016-08-13","AIK","Helsingborgs IF",2,1
+"2016-08-13","Gefle IF","IFK Norrköping",0,0
+"2016-08-14","Kalmar FF","Malmö FF",1,1
+"2016-08-14","Djurgårdens IF","IF Elfsborg",2,2
+"2016-08-14","BK Häcken","Örebro SK",0,1
+"2016-08-15","Jönköpings Södra IF","Östersunds FK",1,1
+"2016-08-15","GIF Sundsvall","Hammarby IF",0,0
+"2016-08-10","IFK Norrköping","BK Häcken",3,1
+"2016-08-20","Östersunds FK","Djurgårdens IF",1,0
+"2016-08-20","Helsingborgs IF","Kalmar FF",0,1
+"2016-08-21","Hammarby IF","IFK Göteborg",2,0
+"2016-08-21","Örebro SK","AIK",0,2
+"2016-08-21","Falkenbergs FF","Gefle IF",1,1
+"2016-08-22","IF Elfsborg","GIF Sundsvall",4,0
+"2016-08-22","Malmö FF","Jönköpings Södra IF",4,1
+"2016-08-27","Kalmar FF","IFK Norrköping",0,1
+"2016-08-27","Djurgårdens IF","Gefle IF",2,1
+"2016-08-28","Jönköpings Södra IF","IF Elfsborg",1,0
+"2016-08-28","AIK","Hammarby IF",0,0
+"2016-08-28","BK Häcken","Östersunds FK",3,1
+"2016-08-28","GIF Sundsvall","Malmö FF",0,1
+"2016-08-28","IFK Göteborg","Helsingborgs IF",2,0
+"2016-08-28","Örebro SK","Falkenbergs FF",3,2
+"2016-09-10","IF Elfsborg","Kalmar FF",1,1
+"2016-09-11","GIF Sundsvall","AIK",1,3
+"2016-09-11","Falkenbergs FF","Djurgårdens IF",1,2
+"2016-09-11","Östersunds FK","Helsingborgs IF",2,0
+"2016-09-11","IFK Norrköping","Jönköpings Södra IF",5,1
+"2016-09-12","Malmö FF","IFK Göteborg",3,1
+"2016-09-12","Hammarby IF","Örebro SK",1,1
+"2016-09-12","Gefle IF","BK Häcken",2,2
+"2016-09-16","Jönköpings Södra IF","Hammarby IF",0,1
+"2016-09-16","Örebro SK","GIF Sundsvall",3,3
+"2016-09-17","Kalmar FF","Östersunds FK",2,0
+"2016-09-18","IF Elfsborg","Falkenbergs FF",5,0
+"2016-09-18","AIK","Gefle IF",1,0
+"2016-09-18","Helsingborgs IF","IFK Norrköping",1,2
+"2016-09-18","Djurgårdens IF","Malmö FF",3,1
+"2016-09-19","BK Häcken","IFK Göteborg",2,2
+"2016-09-21","Östersunds FK","IFK Norrköping",0,2
+"2016-09-21","Helsingborgs IF","GIF Sundsvall",2,1
+"2016-09-21","Kalmar FF","Falkenbergs FF",3,0
+"2016-09-21","Gefle IF","Jönköpings Södra IF",0,1
+"2016-09-21","Djurgårdens IF","AIK",0,3
+"2016-09-22","Hammarby IF","BK Häcken",2,3
+"2016-09-22","IFK Göteborg","Örebro SK",3,2
+"2016-09-22","Malmö FF","IF Elfsborg",1,0
+"2016-09-24","Jönköpings Södra IF","Kalmar FF",0,1
+"2016-09-25","IF Elfsborg","AIK",2,2
+"2016-09-25","Malmö FF","Helsingborgs IF",2,0
+"2016-09-26","IFK Norrköping","Djurgårdens IF",1,3
+"2016-09-26","GIF Sundsvall","BK Häcken",0,0
+"2016-09-26","IFK Göteborg","Östersunds FK",2,0
+"2016-09-26","Falkenbergs FF","Hammarby IF",0,2
+"2016-09-26","Örebro SK","Gefle IF",2,2
+"2016-09-30","Helsingborgs IF","Hammarby IF",0,1
+"2016-10-01","GIF Sundsvall","Jönköpings Södra IF",3,1
+"2016-10-01","Östersunds FK","Falkenbergs FF",6,1
+"2016-10-01","BK Häcken","Malmö FF",2,4
+"2016-10-02","Kalmar FF","IFK Göteborg",4,2
+"2016-10-02","Gefle IF","IF Elfsborg",2,2
+"2016-10-02","AIK","IFK Norrköping",6,0
+"2016-10-02","Djurgårdens IF","Örebro SK",3,2
+"2016-10-15","Falkenbergs FF","GIF Sundsvall",1,1
+"2016-10-16","IFK Norrköping","Malmö FF",1,2
+"2016-10-16","AIK","Östersunds FK",2,0
+"2016-10-16","Örebro SK","Kalmar FF",2,1
+"2016-10-16","Jönköpings Södra IF","BK Häcken",1,1
+"2016-10-16","IF Elfsborg","Helsingborgs IF",1,0
+"2016-10-17","Hammarby IF","Djurgårdens IF",4,2
+"2016-10-17","IFK Göteborg","Gefle IF",3,3
+"2016-10-21","Gefle IF","GIF Sundsvall",1,1
+"2016-10-22","Malmö FF","Östersunds FK",0,3
+"2016-10-23","IFK Norrköping","Falkenbergs FF",2,1
+"2016-10-23","Örebro SK","Helsingborgs IF",0,0
+"2016-10-23","Hammarby IF","IF Elfsborg",2,4
+"2016-10-23","BK Häcken","Kalmar FF",2,3
+"2016-10-24","IFK Göteborg","AIK",1,0
+"2016-10-24","Djurgårdens IF","Jönköpings Södra IF",0,2
+"2016-10-26","Östersunds FK","Hammarby IF",2,0
+"2016-10-26","IF Elfsborg","IFK Norrköping",2,1
+"2016-10-26","Kalmar FF","Gefle IF",0,1
+"2016-10-26","Falkenbergs FF","Malmö FF",0,3
+"2016-10-27","Jönköpings Södra IF","Örebro SK",1,1
+"2016-10-27","GIF Sundsvall","IFK Göteborg",1,3
+"2016-10-27","Helsingborgs IF","Djurgårdens IF",1,2
+"2016-10-27","AIK","BK Häcken",2,1
+"2016-10-30","Hammarby IF","IFK Norrköping",1,1
+"2016-10-30","Kalmar FF","GIF Sundsvall",2,0
+"2016-10-30","Gefle IF","Malmö FF",1,0
+"2016-10-30","Falkenbergs FF","Helsingborgs IF",1,4
+"2016-10-31","Jönköpings Södra IF","AIK",0,0
+"2016-10-31","IFK Göteborg","IF Elfsborg",2,2
+"2016-10-31","Djurgårdens IF","BK Häcken",1,0
+"2016-10-31","Örebro SK","Östersunds FK",1,5
+"2016-11-06","Malmö FF","Hammarby IF",3,0
+"2016-11-06","Östersunds FK","Gefle IF",2,4
+"2016-11-06","GIF Sundsvall","Djurgårdens IF",2,5
+"2016-11-06","IFK Norrköping","IFK Göteborg",3,1
+"2016-11-06","BK Häcken","Falkenbergs FF",7,0
+"2016-11-06","Helsingborgs IF","Jönköpings Södra IF",2,0
+"2016-11-06","IF Elfsborg","Örebro SK",2,1
+"2016-11-06","AIK","Kalmar FF",3,1

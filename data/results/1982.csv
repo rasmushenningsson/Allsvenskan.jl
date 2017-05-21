@@ -1,0 +1,133 @@
+"Date","HomeTeam","AwayTeam","HomeScore","AwayScore"
+"1982-04-24","Örgryte IS","Åtvidabergs FF",4,3
+"1982-04-24","IFK Norrköping","Hammarby IF",1,1
+"1982-04-24","Kalmar FF","Halmstads BK",4,1
+"1982-04-24","IF Elfsborg","Malmö FF",0,1
+"1982-04-24","AIK","Östers IF",1,0
+"1982-04-26","IFK Göteborg","IK Brage",1,0
+"1982-04-29","IFK Göteborg","IFK Norrköping",2,1
+"1982-05-02","Östers IF","IK Brage",4,0
+"1982-05-02","Åtvidabergs FF","Kalmar FF",1,0
+"1982-05-02","Malmö FF","AIK",2,0
+"1982-05-02","Hammarby IF","Örgryte IS",4,2
+"1982-05-02","Halmstads BK","IF Elfsborg",2,2
+"1982-05-09","Örgryte IS","Malmö FF",1,1
+"1982-05-09","Åtvidabergs FF","Halmstads BK",0,2
+"1982-05-09","Kalmar FF","Östers IF",1,0
+"1982-05-09","IF Elfsborg","IFK Göteborg",0,0
+"1982-05-09","IK Brage","Hammarby IF",1,0
+"1982-05-09","AIK","IFK Norrköping",1,1
+"1982-05-14","IFK Göteborg","AIK",1,0
+"1982-05-16","Östers IF","IF Elfsborg",0,0
+"1982-05-16","IFK Norrköping","IK Brage",2,1
+"1982-05-16","Malmö FF","Kalmar FF",1,1
+"1982-05-16","Hammarby IF","Åtvidabergs FF",1,1
+"1982-05-16","Halmstads BK","Örgryte IS",4,2
+"1982-05-27","Åtvidabergs FF","Östers IF",0,1
+"1982-05-27","Kalmar FF","IFK Norrköping",0,0
+"1982-05-27","Hammarby IF","AIK",3,0
+"1982-05-27","Halmstads BK","Malmö FF",0,0
+"1982-05-27","IFK Göteborg","Örgryte IS",1,2
+"1982-05-27","IF Elfsborg","IK Brage",1,0
+"1982-05-31","Östers IF","Halmstads BK",0,0
+"1982-05-31","IFK Norrköping","Örgryte IS",1,1
+"1982-05-31","Malmö FF","Hammarby IF",2,0
+"1982-05-31","IFK Göteborg","Åtvidabergs FF",0,1
+"1982-05-31","IK Brage","Kalmar FF",0,0
+"1982-05-31","AIK","IF Elfsborg",3,2
+"1982-06-06","Örgryte IS","AIK",0,0
+"1982-06-06","Åtvidabergs FF","IK Brage",1,2
+"1982-06-06","Malmö FF","IFK Göteborg",1,1
+"1982-06-06","Kalmar FF","IF Elfsborg",0,0
+"1982-06-06","Hammarby IF","Östers IF",1,3
+"1982-06-06","Halmstads BK","IFK Norrköping",4,4
+"1982-06-13","Östers IF","Malmö FF",1,0
+"1982-06-13","IFK Norrköping","Åtvidabergs FF",2,0
+"1982-06-13","IFK Göteborg","Halmstads BK",5,1
+"1982-06-13","IF Elfsborg","Hammarby IF",0,1
+"1982-06-13","IK Brage","Örgryte IS",1,0
+"1982-06-13","AIK","Kalmar FF",0,2
+"1982-06-23","Östers IF","IFK Göteborg",3,1
+"1982-06-23","Malmö FF","IFK Norrköping",1,1
+"1982-06-23","Halmstads BK","IK Brage",3,1
+"1982-06-27","Örgryte IS","IF Elfsborg",2,2
+"1982-06-27","Åtvidabergs FF","AIK",3,2
+"1982-06-27","Hammarby IF","Kalmar FF",2,2
+"1982-06-30","IFK Norrköping","Östers IF",2,1
+"1982-06-30","IFK Göteborg","Hammarby IF",4,1
+"1982-06-30","IK Brage","Malmö FF",2,2
+"1982-07-04","Kalmar FF","Örgryte IS",1,2
+"1982-07-04","IF Elfsborg","Åtvidabergs FF",3,1
+"1982-07-04","AIK","Halmstads BK",1,1
+"1982-07-07","Örgryte IS","Östers IF",1,0
+"1982-07-07","Kalmar FF","IFK Göteborg",1,4
+"1982-07-07","IF Elfsborg","IFK Norrköping",2,2
+"1982-07-07","AIK","IK Brage",1,1
+"1982-07-11","Åtvidabergs FF","Malmö FF",0,2
+"1982-07-11","Halmstads BK","Hammarby IF",3,0
+"1982-07-14","Östers IF","Örgryte IS",1,0
+"1982-07-14","IFK Norrköping","IF Elfsborg",1,2
+"1982-07-14","IFK Göteborg","Kalmar FF",1,1
+"1982-07-14","IK Brage","AIK",1,1
+"1982-07-18","Malmö FF","Åtvidabergs FF",1,1
+"1982-07-18","Hammarby IF","Halmstads BK",4,2
+"1982-07-28","Östers IF","AIK",2,2
+"1982-07-28","Hammarby IF","IFK Norrköping",1,1
+"1982-07-28","IK Brage","IFK Göteborg",1,3
+"1982-08-01","Åtvidabergs FF","Örgryte IS",0,1
+"1982-08-01","Malmö FF","IF Elfsborg",0,1
+"1982-08-01","Halmstads BK","Kalmar FF",4,1
+"1982-08-08","Örgryte IS","Hammarby IF",1,2
+"1982-08-08","IFK Norrköping","IFK Göteborg",1,6
+"1982-08-08","Kalmar FF","Åtvidabergs FF",1,0
+"1982-08-08","IF Elfsborg","Halmstads BK",5,2
+"1982-08-08","IK Brage","Östers IF",1,0
+"1982-08-08","AIK","Malmö FF",0,0
+"1982-08-15","Östers IF","Kalmar FF",1,1
+"1982-08-15","IFK Norrköping","AIK",2,3
+"1982-08-15","Malmö FF","Örgryte IS",0,0
+"1982-08-15","Hammarby IF","IK Brage",6,0
+"1982-08-15","Halmstads BK","Åtvidabergs FF",1,0
+"1982-08-15","IFK Göteborg","IF Elfsborg",0,0
+"1982-08-22","Örgryte IS","Halmstads BK",4,0
+"1982-08-22","Åtvidabergs FF","Hammarby IF",0,3
+"1982-08-22","Kalmar FF","Malmö FF",0,2
+"1982-08-22","IF Elfsborg","Östers IF",3,1
+"1982-08-22","IK Brage","IFK Norrköping",3,0
+"1982-08-22","AIK","IFK Göteborg",0,0
+"1982-08-25","Östers IF","Åtvidabergs FF",2,0
+"1982-08-25","Örgryte IS","IFK Göteborg",0,2
+"1982-08-25","IFK Norrköping","Kalmar FF",2,1
+"1982-08-25","Malmö FF","Halmstads BK",2,1
+"1982-08-25","IK Brage","IF Elfsborg",0,0
+"1982-08-26","AIK","Hammarby IF",0,3
+"1982-08-29","Örgryte IS","IFK Norrköping",1,1
+"1982-08-29","Åtvidabergs FF","IFK Göteborg",2,8
+"1982-08-29","Kalmar FF","IK Brage",0,2
+"1982-08-29","Hammarby IF","Malmö FF",2,0
+"1982-08-29","Halmstads BK","Östers IF",2,4
+"1982-08-29","IF Elfsborg","AIK",1,2
+"1982-09-02","Östers IF","Hammarby IF",0,1
+"1982-09-02","IFK Norrköping","Halmstads BK",0,1
+"1982-09-02","IFK Göteborg","Malmö FF",1,1
+"1982-09-02","IF Elfsborg","Kalmar FF",2,0
+"1982-09-02","IK Brage","Åtvidabergs FF",3,0
+"1982-09-02","AIK","Örgryte IS",0,0
+"1982-09-12","Örgryte IS","IK Brage",0,1
+"1982-09-12","Åtvidabergs FF","IFK Norrköping",0,2
+"1982-09-12","Malmö FF","Östers IF",0,2
+"1982-09-12","Kalmar FF","AIK",1,0
+"1982-09-12","Hammarby IF","IF Elfsborg",2,1
+"1982-09-12","Halmstads BK","IFK Göteborg",1,1
+"1982-09-22","IFK Norrköping","Malmö FF",0,4
+"1982-09-22","Kalmar FF","Hammarby IF",2,0
+"1982-09-22","IFK Göteborg","Östers IF",2,0
+"1982-09-22","IF Elfsborg","Örgryte IS",2,1
+"1982-09-22","IK Brage","Halmstads BK",3,2
+"1982-09-22","AIK","Åtvidabergs FF",2,3
+"1982-09-25","Östers IF","IFK Norrköping",2,1
+"1982-09-25","Örgryte IS","Kalmar FF",2,1
+"1982-09-25","Åtvidabergs FF","IF Elfsborg",0,2
+"1982-09-25","Malmö FF","IK Brage",0,0
+"1982-09-25","Hammarby IF","IFK Göteborg",4,1
+"1982-09-25","Halmstads BK","AIK",2,2

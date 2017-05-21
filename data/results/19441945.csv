@@ -1,0 +1,133 @@
+"Date","HomeTeam","AwayTeam","HomeScore","AwayScore"
+"1944-07-30","Malmö FF","IFK Göteborg",4,0
+"1944-07-30","Ludvika FfI","AIK",1,2
+"1944-07-30","Helsingborgs IF","Halmstads BK",1,2
+"1944-07-30","IS Halmia","Landskrona BoIS",3,1
+"1944-07-30","GAIS","IF Elfsborg",0,2
+"1944-07-30","Degerfors IF","IFK Norrköping",0,1
+"1944-08-06","IFK Norrköping","Helsingborgs IF",4,5
+"1944-08-06","Landskrona BoIS","Degerfors IF",5,1
+"1944-08-06","Halmstads BK","Malmö FF",1,1
+"1944-08-06","IFK Göteborg","Ludvika FfI",5,0
+"1944-08-06","IF Elfsborg","IS Halmia",1,2
+"1944-08-06","AIK","GAIS",4,2
+"1944-08-13","Ludvika FfI","Helsingborgs IF",5,2
+"1944-08-13","IS Halmia","IFK Göteborg",1,3
+"1944-08-13","GAIS","Halmstads BK",4,0
+"1944-08-13","IF Elfsborg","Landskrona BoIS",6,4
+"1944-08-13","Degerfors IF","Malmö FF",0,4
+"1944-08-13","AIK","IFK Norrköping",4,1
+"1944-08-18","IFK Göteborg","GAIS",2,0
+"1944-08-20","IFK Norrköping","IF Elfsborg",5,1
+"1944-08-20","Malmö FF","IS Halmia",5,0
+"1944-08-20","Landskrona BoIS","Ludvika FfI",1,2
+"1944-08-20","Helsingborgs IF","Degerfors IF",2,4
+"1944-08-20","Halmstads BK","AIK",2,1
+"1944-08-27","IFK Göteborg","Landskrona BoIS",3,0
+"1944-09-03","IFK Norrköping","IFK Göteborg",5,1
+"1944-09-03","Landskrona BoIS","Malmö FF",2,3
+"1944-09-03","Halmstads BK","Ludvika FfI",3,2
+"1944-09-03","GAIS","IS Halmia",3,1
+"1944-09-03","IF Elfsborg","Helsingborgs IF",1,0
+"1944-09-03","AIK","Degerfors IF",0,2
+"1944-09-10","Malmö FF","IFK Norrköping",1,3
+"1944-09-10","Ludvika FfI","GAIS",2,2
+"1944-09-10","Helsingborgs IF","Landskrona BoIS",2,3
+"1944-09-10","IS Halmia","AIK",1,0
+"1944-09-10","IFK Göteborg","Halmstads BK",6,1
+"1944-09-10","Degerfors IF","IF Elfsborg",1,1
+"1944-09-17","Malmö FF","IF Elfsborg",2,3
+"1944-09-17","Ludvika FfI","IS Halmia",2,1
+"1944-09-17","Helsingborgs IF","AIK",1,0
+"1944-09-17","Halmstads BK","IFK Norrköping",0,3
+"1944-09-17","Degerfors IF","GAIS",1,0
+"1944-09-24","IFK Norrköping","Ludvika FfI",3,0
+"1944-09-24","Landskrona BoIS","Halmstads BK",3,0
+"1944-09-24","IS Halmia","Degerfors IF",4,3
+"1944-09-24","GAIS","Helsingborgs IF",1,1
+"1944-09-24","IF Elfsborg","IFK Göteborg",3,3
+"1944-09-24","AIK","Malmö FF",1,2
+"1944-10-01","Helsingborgs IF","IS Halmia",0,3
+"1944-10-01","Halmstads BK","IF Elfsborg",0,4
+"1944-10-01","IFK Göteborg","AIK",2,0
+"1944-10-01","Degerfors IF","Ludvika FfI",2,0
+"1944-10-08","Ludvika FfI","IF Elfsborg",1,3
+"1944-10-08","Helsingborgs IF","Malmö FF",2,5
+"1944-10-08","IS Halmia","Halmstads BK",2,4
+"1944-10-08","GAIS","IFK Norrköping",2,4
+"1944-10-08","Degerfors IF","IFK Göteborg",2,1
+"1944-10-08","AIK","Landskrona BoIS",2,2
+"1944-10-15","IFK Norrköping","IS Halmia",1,0
+"1944-10-15","Malmö FF","Ludvika FfI",1,1
+"1944-10-15","Landskrona BoIS","GAIS",1,3
+"1944-10-15","Halmstads BK","Degerfors IF",1,2
+"1944-10-15","IFK Göteborg","Helsingborgs IF",6,1
+"1944-10-15","IF Elfsborg","AIK",3,2
+"1944-10-22","IFK Norrköping","Halmstads BK",5,1
+"1944-10-22","Landskrona BoIS","IFK Göteborg",1,2
+"1944-10-22","IS Halmia","Ludvika FfI",1,2
+"1944-10-22","GAIS","Degerfors IF",1,1
+"1944-10-22","IF Elfsborg","Malmö FF",1,1
+"1944-10-22","AIK","Helsingborgs IF",6,1
+"1944-10-29","Malmö FF","AIK",2,3
+"1944-10-29","Ludvika FfI","IFK Norrköping",0,2
+"1944-10-29","Helsingborgs IF","GAIS",0,1
+"1944-10-29","Halmstads BK","Landskrona BoIS",4,2
+"1944-10-29","IFK Göteborg","IF Elfsborg",1,1
+"1944-10-29","Degerfors IF","IS Halmia",2,1
+"1944-11-12","IFK Norrköping","Landskrona BoIS",9,1
+"1944-11-12","Malmö FF","GAIS",1,3
+"1945-04-15","IFK Norrköping","GAIS",3,0
+"1945-04-15","Malmö FF","Helsingborgs IF",2,0
+"1945-04-15","Landskrona BoIS","AIK",1,1
+"1945-04-15","Halmstads BK","IS Halmia",1,2
+"1945-04-15","IFK Göteborg","Degerfors IF",2,1
+"1945-04-15","IF Elfsborg","Ludvika FfI",6,0
+"1945-04-22","Ludvika FfI","Degerfors IF",1,3
+"1945-04-22","Landskrona BoIS","IFK Norrköping",1,3
+"1945-04-22","IS Halmia","Helsingborgs IF",1,3
+"1945-04-22","GAIS","Malmö FF",1,4
+"1945-04-22","IF Elfsborg","Halmstads BK",4,0
+"1945-04-22","AIK","IFK Göteborg",2,7
+"1945-04-29","Malmö FF","Landskrona BoIS",4,0
+"1945-04-29","Ludvika FfI","Halmstads BK",2,5
+"1945-04-29","Helsingborgs IF","IF Elfsborg",2,3
+"1945-04-29","IS Halmia","GAIS",2,0
+"1945-04-29","IFK Göteborg","IFK Norrköping",1,6
+"1945-04-29","Degerfors IF","AIK",0,0
+"1945-05-06","IFK Norrköping","Malmö FF",3,0
+"1945-05-06","Landskrona BoIS","Helsingborgs IF",1,1
+"1945-05-06","Halmstads BK","IFK Göteborg",1,1
+"1945-05-06","GAIS","Ludvika FfI",2,0
+"1945-05-06","IF Elfsborg","Degerfors IF",0,2
+"1945-05-06","AIK","IS Halmia",1,1
+"1945-05-10","Ludvika FfI","Malmö FF",2,1
+"1945-05-10","Helsingborgs IF","IFK Göteborg",4,2
+"1945-05-10","IS Halmia","IFK Norrköping",1,4
+"1945-05-10","GAIS","Landskrona BoIS",4,2
+"1945-05-10","Degerfors IF","Halmstads BK",5,0
+"1945-05-10","AIK","IF Elfsborg",1,3
+"1945-05-13","IFK Norrköping","AIK",0,0
+"1945-05-13","Malmö FF","Degerfors IF",4,1
+"1945-05-13","Landskrona BoIS","IF Elfsborg",1,1
+"1945-05-13","Helsingborgs IF","Ludvika FfI",4,2
+"1945-05-13","Halmstads BK","GAIS",4,1
+"1945-05-13","IFK Göteborg","IS Halmia",5,0
+"1945-05-18","GAIS","IFK Göteborg",1,0
+"1945-05-21","Ludvika FfI","Landskrona BoIS",1,0
+"1945-05-21","IS Halmia","Malmö FF",2,2
+"1945-05-21","IF Elfsborg","IFK Norrköping",2,2
+"1945-05-21","Degerfors IF","Helsingborgs IF",1,1
+"1945-05-21","AIK","Halmstads BK",4,0
+"1945-05-27","Malmö FF","Halmstads BK",3,2
+"1945-05-27","Ludvika FfI","IFK Göteborg",3,4
+"1945-05-27","Helsingborgs IF","IFK Norrköping",2,2
+"1945-05-27","IS Halmia","IF Elfsborg",0,1
+"1945-05-27","GAIS","AIK",3,1
+"1945-05-27","Degerfors IF","Landskrona BoIS",1,1
+"1945-06-03","IFK Norrköping","Degerfors IF",2,0
+"1945-06-03","Landskrona BoIS","IS Halmia",5,2
+"1945-06-03","Halmstads BK","Helsingborgs IF",1,0
+"1945-06-03","IFK Göteborg","Malmö FF",0,6
+"1945-06-03","IF Elfsborg","GAIS",2,1
+"1945-06-03","AIK","Ludvika FfI",3,1

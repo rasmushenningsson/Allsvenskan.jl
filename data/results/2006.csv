@@ -1,0 +1,183 @@
+"Date","HomeTeam","AwayTeam","HomeScore","AwayScore","PointsDeductedHome"
+"2006-04-01","GAIS","Örgryte IS",2,0,NA
+"2006-04-02","AIK","Gefle IF",2,2,NA
+"2006-04-03","Malmö FF","BK Häcken",1,1,NA
+"2006-04-03","IFK Göteborg","Östers IF",0,0,NA
+"2006-04-04","Hammarby IF","Helsingborgs IF",4,2,NA
+"2006-04-08","Helsingborgs IF","GAIS",1,0,NA
+"2006-04-09","Gefle IF","Kalmar FF",2,2,NA
+"2006-04-09","BK Häcken","Halmstads BK",0,0,NA
+"2006-04-10","Östers IF","AIK",0,4,NA
+"2006-04-10","Örgryte IS","Malmö FF",1,2,NA
+"2006-04-10","IF Elfsborg","IFK Göteborg",1,1,NA
+"2006-04-10","Djurgårdens IF","Hammarby IF",0,0,NA
+"2006-04-14","Östers IF","IF Elfsborg",3,4,NA
+"2006-04-14","Kalmar FF","GAIS",1,2,NA
+"2006-04-14","IFK Göteborg","Helsingborgs IF",2,2,NA
+"2006-04-17","Malmö FF","Hammarby IF",1,2,NA
+"2006-04-17","Halmstads BK","Djurgårdens IF",0,0,NA
+"2006-04-17","Gefle IF","BK Häcken",0,4,NA
+"2006-04-17","AIK","Örgryte IS",2,1,NA
+"2006-04-20","Kalmar FF","Djurgårdens IF",0,1,NA
+"2006-04-20","Halmstads BK","IF Elfsborg",0,1,NA
+"2006-04-22","BK Häcken","Östers IF",0,1,NA
+"2006-04-23","IF Elfsborg","Kalmar FF",1,0,NA
+"2006-04-23","Hammarby IF","Halmstads BK",0,0,NA
+"2006-04-23","GAIS","Malmö FF",0,0,NA
+"2006-04-24","Örgryte IS","Gefle IF",1,1,NA
+"2006-04-24","Helsingborgs IF","AIK",1,1,NA
+"2006-04-24","Djurgårdens IF","IFK Göteborg",1,0,NA
+"2006-04-26","IF Elfsborg","BK Häcken",2,2,NA
+"2006-04-26","Kalmar FF","Malmö FF",0,0,NA
+"2006-04-26","Halmstads BK","GAIS",0,0,NA
+"2006-04-27","Östers IF","Örgryte IS",0,0,NA
+"2006-04-27","IFK Göteborg","Hammarby IF",1,2,NA
+"2006-04-27","Gefle IF","Helsingborgs IF",1,0,NA
+"2006-04-27","AIK","Djurgårdens IF",3,1,NA
+"2006-05-01","BK Häcken","Kalmar FF",0,2,NA
+"2006-05-02","Helsingborgs IF","Östers IF",4,0,NA
+"2006-05-02","GAIS","IFK Göteborg",1,2,NA
+"2006-05-02","Djurgårdens IF","Gefle IF",1,0,NA
+"2006-05-03","Örgryte IS","IF Elfsborg",0,2,NA
+"2006-05-03","Malmö FF","Halmstads BK",1,0,NA
+"2006-05-03","Hammarby IF","AIK",2,0,NA
+"2006-05-06","IFK Göteborg","BK Häcken",3,0,NA
+"2006-05-07","Kalmar FF","Hammarby IF",4,1,NA
+"2006-05-07","Halmstads BK","Örgryte IS",1,0,NA
+"2006-05-07","Gefle IF","Östers IF",1,0,NA
+"2006-05-07","GAIS","Djurgårdens IF",1,1,NA
+"2006-05-08","Malmö FF","Helsingborgs IF",3,1,NA
+"2006-05-08","AIK","IF Elfsborg",2,2,NA
+"2006-05-10","Östers IF","Kalmar FF",0,1,NA
+"2006-05-10","IFK Göteborg","Örgryte IS",2,1,NA
+"2006-05-10","Hammarby IF","GAIS",5,2,NA
+"2006-05-11","IF Elfsborg","Gefle IF",0,1,NA
+"2006-05-11","Helsingborgs IF","Halmstads BK",1,1,NA
+"2006-05-11","Djurgårdens IF","Malmö FF",2,3,NA
+"2006-05-11","BK Häcken","AIK",0,1,NA
+"2006-05-14","Gefle IF","Hammarby IF",0,1,NA
+"2006-05-14","BK Häcken","Örgryte IS",2,2,NA
+"2006-05-14","Östers IF","Djurgårdens IF",0,3,NA
+"2006-05-14","IFK Göteborg","Malmö FF",1,0,NA
+"2006-05-14","AIK","GAIS",2,0,NA
+"2006-05-14","IF Elfsborg","Helsingborgs IF",0,0,NA
+"2006-05-15","Kalmar FF","Halmstads BK",2,1,NA
+"2006-07-15","Malmö FF","AIK",3,1,NA
+"2006-07-16","Djurgårdens IF","IF Elfsborg",1,1,NA
+"2006-07-16","Halmstads BK","IFK Göteborg",1,4,NA
+"2006-07-17","Hammarby IF","Östers IF",2,0,NA
+"2006-07-17","Helsingborgs IF","BK Häcken",1,3,NA
+"2006-07-18","GAIS","Gefle IF",1,0,NA
+"2006-07-19","Örgryte IS","Kalmar FF",1,3,NA
+"2006-07-20","BK Häcken","Djurgårdens IF",0,2,NA
+"2006-07-22","Örgryte IS","Helsingborgs IF",1,1,NA
+"2006-07-23","Gefle IF","Malmö FF",4,3,NA
+"2006-07-23","AIK","Halmstads BK",3,0,NA
+"2006-07-24","Östers IF","GAIS",2,2,NA
+"2006-07-25","IF Elfsborg","Hammarby IF",3,0,NA
+"2006-07-29","Djurgårdens IF","Örgryte IS",2,2,NA
+"2006-07-30","Hammarby IF","BK Häcken",3,0,NA
+"2006-07-30","GAIS","IF Elfsborg",0,3,NA
+"2006-07-31","Malmö FF","Östers IF",2,0,NA
+"2006-07-31","Helsingborgs IF","Kalmar FF",2,1,NA
+"2006-07-31","Halmstads BK","Gefle IF",3,0,NA
+"2006-07-31","IFK Göteborg","AIK",1,1,NA
+"2006-08-02","BK Häcken","GAIS",0,2,NA
+"2006-08-03","Örgryte IS","Hammarby IF",1,3,NA
+"2006-08-03","Kalmar FF","IFK Göteborg",1,2,NA
+"2006-08-05","Djurgårdens IF","Helsingborgs IF",2,1,NA
+"2006-08-06","IFK Göteborg","Gefle IF",3,1,NA
+"2006-08-06","AIK","Kalmar FF",1,0,NA
+"2006-08-07","Östers IF","Halmstads BK",3,1,NA
+"2006-08-08","IF Elfsborg","Malmö FF",4,2,NA
+"2006-08-09","GAIS","BK Häcken",2,2,NA
+"2006-08-12","Kalmar FF","AIK",1,3,NA
+"2006-08-12","Hammarby IF","Örgryte IS",0,1,NA
+"2006-08-13","Malmö FF","IF Elfsborg",1,1,NA
+"2006-08-13","Halmstads BK","Östers IF",1,0,NA
+"2006-08-13","Gefle IF","IFK Göteborg",1,0,NA
+"2006-08-13","Helsingborgs IF","Djurgårdens IF",1,1,NA
+"2006-08-19","Djurgårdens IF","Kalmar FF",0,1,NA
+"2006-08-20","BK Häcken","Malmö FF",1,3,NA
+"2006-08-21","Östers IF","IFK Göteborg",1,1,NA
+"2006-08-21","Örgryte IS","GAIS",1,0,NA
+"2006-08-21","Gefle IF","AIK",1,1,NA
+"2006-08-22","IF Elfsborg","Halmstads BK",3,0,NA
+"2006-08-22","Helsingborgs IF","Hammarby IF",3,1,NA
+"2006-08-27","Halmstads BK","BK Häcken",2,2,NA
+"2006-08-27","AIK","Östers IF",5,1,NA
+"2006-08-28","Malmö FF","Örgryte IS",4,2,NA
+"2006-08-28","Kalmar FF","Gefle IF",2,1,NA
+"2006-08-28","IFK Göteborg","IF Elfsborg",1,1,NA
+"2006-08-28","Hammarby IF","Djurgårdens IF",0,3,3
+"2006-09-08","GAIS","Helsingborgs IF",0,2,NA
+"2006-09-09","IF Elfsborg","AIK",1,1,NA
+"2006-09-10","Hammarby IF","Kalmar FF",1,2,NA
+"2006-09-11","Östers IF","Gefle IF",1,2,NA
+"2006-09-11","Örgryte IS","Halmstads BK",1,2,NA
+"2006-09-11","Djurgårdens IF","GAIS",0,2,NA
+"2006-09-12","Helsingborgs IF","Malmö FF",3,1,NA
+"2006-09-12","BK Häcken","IFK Göteborg",1,4,NA
+"2006-09-16","GAIS","Hammarby IF",2,2,NA
+"2006-09-16","Malmö FF","Djurgårdens IF",0,1,NA
+"2006-09-16","Gefle IF","IF Elfsborg",1,1,NA
+"2006-09-17","Halmstads BK","Helsingborgs IF",1,1,NA
+"2006-09-17","AIK","BK Häcken",1,0,NA
+"2006-09-18","Örgryte IS","IFK Göteborg",3,2,NA
+"2006-09-18","Kalmar FF","Östers IF",3,0,NA
+"2006-09-20","BK Häcken","IF Elfsborg",1,4,NA
+"2006-09-20","Helsingborgs IF","Gefle IF",2,0,NA
+"2006-09-20","GAIS","Halmstads BK",1,1,NA
+"2006-09-20","Djurgårdens IF","AIK",0,1,NA
+"2006-09-21","Örgryte IS","Östers IF",0,2,NA
+"2006-09-21","Malmö FF","Kalmar FF",2,2,NA
+"2006-09-21","Hammarby IF","IFK Göteborg",3,3,NA
+"2006-09-24","Halmstads BK","Malmö FF",2,2,NA
+"2006-09-25","Kalmar FF","BK Häcken",0,0,NA
+"2006-09-25","IFK Göteborg","GAIS",0,0,NA
+"2006-09-25","Gefle IF","Djurgårdens IF",2,0,NA
+"2006-09-26","Östers IF","Helsingborgs IF",0,3,NA
+"2006-09-26","IF Elfsborg","Örgryte IS",2,0,NA
+"2006-09-26","AIK","Hammarby IF",0,2,NA
+"2006-09-30","Helsingborgs IF","IFK Göteborg",3,2,NA
+"2006-09-30","GAIS","Kalmar FF",2,2,NA
+"2006-10-01","Djurgårdens IF","Halmstads BK",2,1,NA
+"2006-10-01","BK Häcken","Gefle IF",4,1,NA
+"2006-10-02","Örgryte IS","AIK",0,0,NA
+"2006-10-02","IF Elfsborg","Östers IF",0,0,NA
+"2006-10-02","Hammarby IF","Malmö FF",2,2,NA
+"2006-10-14","AIK","Helsingborgs IF",2,2,NA
+"2006-10-15","Östers IF","BK Häcken",1,1,NA
+"2006-10-15","Gefle IF","Örgryte IS",2,0,NA
+"2006-10-16","Malmö FF","GAIS",2,0,NA
+"2006-10-16","Kalmar FF","IF Elfsborg",0,1,NA
+"2006-10-16","Halmstads BK","Hammarby IF",0,0,NA
+"2006-10-17","IFK Göteborg","Djurgårdens IF",3,2,NA
+"2006-10-21","Halmstads BK","AIK",2,2,NA
+"2006-10-22","Malmö FF","Gefle IF",2,2,NA
+"2006-10-22","Helsingborgs IF","Örgryte IS",2,1,NA
+"2006-10-22","GAIS","Östers IF",1,1,NA
+"2006-10-22","Djurgårdens IF","BK Häcken",2,1,NA
+"2006-10-23","IFK Göteborg","Kalmar FF",0,3,NA
+"2006-10-23","Hammarby IF","IF Elfsborg",1,0,NA
+"2006-10-25","Östers IF","Malmö FF",2,1,NA
+"2006-10-25","Örgryte IS","Djurgårdens IF",1,1,NA
+"2006-10-26","Kalmar FF","Helsingborgs IF",2,4,NA
+"2006-10-26","IF Elfsborg","GAIS",1,0,NA
+"2006-10-26","Gefle IF","Halmstads BK",0,2,NA
+"2006-10-26","BK Häcken","Hammarby IF",0,0,NA
+"2006-10-26","AIK","IFK Göteborg",4,0,NA
+"2006-10-29","Örgryte IS","BK Häcken",1,1,NA
+"2006-10-29","Helsingborgs IF","IF Elfsborg",1,1,NA
+"2006-10-29","Halmstads BK","Kalmar FF",0,1,NA
+"2006-10-30","Malmö FF","IFK Göteborg",2,1,NA
+"2006-10-30","GAIS","AIK",0,0,NA
+"2006-10-30","Djurgårdens IF","Östers IF",2,0,NA
+"2006-10-31","Hammarby IF","Gefle IF",1,0,NA
+"2006-11-05","Östers IF","Hammarby IF",1,2,NA
+"2006-11-05","Kalmar FF","Örgryte IS",3,2,NA
+"2006-11-05","IFK Göteborg","Halmstads BK",0,0,NA
+"2006-11-05","IF Elfsborg","Djurgårdens IF",1,0,NA
+"2006-11-05","Gefle IF","GAIS",2,2,NA
+"2006-11-05","BK Häcken","Helsingborgs IF",3,0,NA
+"2006-11-05","AIK","Malmö FF",3,0,NA
