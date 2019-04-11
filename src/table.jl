@@ -137,10 +137,11 @@ defaultresultsfolder() = joinpath(Pkg.dir("Allsvenskan"),"data","results")
 function allgamesbyseason(folder::String=defaultresultsfolder())
 	files = readdir(folder)
 	filter!(x->lowercase(splitext(x)[2])==".csv", files)
-	readtable.(joinpath.([folder],files))
+	# exit.(joinpath.([folder],files))
+	CSV.read.(joinpath.([folder],files))
 end
 
-allgames(G::AbstractArray{DataFrame}) = vcat(G...)
+allgames(G::AbstractArray{DataFrame}) = _vcat(G...)
 allgames(folder::String=defaultresultsfolder()) = allgames(allgamesbyseason(folder))
 
 alltables(G::AbstractArray{DataFrame}) = table.(G)

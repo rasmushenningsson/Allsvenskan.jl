@@ -5,6 +5,20 @@ function didyoumean(A,x)
 end
 
 
+function _addmissing(df::AbstractDataFrame, cols::AbstractVector{Symbol})
+    df = copy(df)
+    for c in cols
+        c in names(df) || (df[c] = missing)
+    end
+    df
+end
+
+function _vcat(args::AbstractDataFrame...)
+    cols = unique(vcat(names.(args)...))
+    vcat( [ _addmissing(df,cols) for df in args ]... )
+end
+
+
 function printtable(io::IO, T::DataFrame)
     A = Matrix{String}(size(T,1)+1, 11) # +1 for header
     P = Vector{Function}(11) # determines left or right padding
