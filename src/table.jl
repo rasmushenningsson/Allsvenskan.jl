@@ -17,9 +17,9 @@ function outcome(homeScore,awayScore)
 end
 
 function sorttable!(table::DataFrame)
-	sort!(table, cols=[order(:Points, rev=true),
-		               order(:GoalDifference, rev=true),
-		               order(:GoalsFor, rev=true)])
+	sort!(table, [order(:Points, rev=true),
+		          order(:GoalDifference, rev=true),
+		          order(:GoalsFor, rev=true)])
 end
 
 # construct Home/Away tables by using incHome/incAway
@@ -48,7 +48,7 @@ function addgame!(T::DataFrame, games::DataFrame, g::Int; winPoints=3, incHome=t
 	oc = outcome(homeScore,awayScore)
 
 	# possibly correct outcome
-	if haskey(games,:Outcome) && !isna(games[g,:Outcome])
+	if haskey(games,:Outcome) && !ismissing(games[g,:Outcome])
 		oc = Symbol(games[g,:Outcome])
 	end
 
@@ -66,10 +66,10 @@ function addgame!(T::DataFrame, games::DataFrame, g::Int; winPoints=3, incHome=t
 	awayPoints = (oc==:AwayVictory)*winPoints + (oc==:Draw)
 
 	# possibly correct points
-	if haskey(games,:PointsDeductedHome) && !isna(games[g,:PointsDeductedHome])
+	if haskey(games,:PointsDeductedHome) && !ismissing(games[g,:PointsDeductedHome])
 		homePoints -= games[g,:PointsDeductedHome]
 	end
-	if haskey(games,:PointsDeductedAway) && !isna(games[g,:PointsDeductedAway])
+	if haskey(games,:PointsDeductedAway) && !ismissing(games[g,:PointsDeductedAway])
 		awayPoints -= games[g,:PointsDeductedAway]
 	end
 
@@ -138,7 +138,8 @@ function allgamesbyseason(folder::String=defaultresultsfolder())
 	files = readdir(folder)
 	filter!(x->lowercase(splitext(x)[2])==".csv", files)
 	# exit.(joinpath.([folder],files))
-	CSV.read.(joinpath.([folder],files))
+	# CSV.read.(joinpath.([folder],files), missingstring="NA")
+	CSV.read.(joinpath.([folder],files), categorical=false,missingstring="NA",strings=:raw,rows_for_type_detect=10000)
 end
 
 allgames(G::AbstractArray{DataFrame}) = _vcat(G...)
