@@ -20,9 +20,9 @@ end
 
 
 function printtable(io::IO, T::DataFrame)
-    A = Matrix{String}(size(T,1)+1, 11) # +1 for header
-    P = Vector{Function}(11) # determines left or right padding
-    S = Vector{String}(11)
+    A = fill("", size(T,1)+1, 11) # +1 for header
+    P = Vector{Function}(undef, 11) # determines left or right padding
+    S = fill("", 11)
 
     P[ 1]=rpad; S[ 1]=" "; A[:, 1]=vcat("Lag", map(string, T[:Team]))
     P[ 2]=lpad; S[ 2]=" "; A[:, 2]=vcat("Säs", map(string, T[:Seasons]))
@@ -48,7 +48,7 @@ function printtable(io::IO, T::DataFrame)
         println(io)
     end
 end
-printtable(T::DataFrame) = printtable(STDOUT, T)
+printtable(T::DataFrame) = printtable(stdout, T)
 
 
 
@@ -101,4 +101,4 @@ function printgames(io::IO, G::DataFrame)
         println(io)
     end
 end
-printgames(G::DataFrame) = printgames(STDOUT, G)
+printgames(G::DataFrame) = printgames(stdout, G)

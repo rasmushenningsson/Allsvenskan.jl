@@ -25,8 +25,8 @@ end
 # construct Home/Away tables by using incHome/incAway
 function addgame!(T::DataFrame, games::DataFrame, g::Int; winPoints=3, incHome=true, incAway=true)
 	teams = T[:Team]
-	homeRow = findfirst(teams,games[g,:HomeTeam])
-	awayRow = findfirst(teams,games[g,:AwayTeam])
+	homeRow = findfirst(isequal(games[g,:HomeTeam]),teams)
+	awayRow = findfirst(isequal(games[g,:AwayTeam]),teams)
 
 	homeScore = games[g,:HomeScore]
 	awayScore = games[g,:AwayScore]
@@ -102,9 +102,9 @@ function _addtable(dest, table)
 
 	for i=1:size(table,1)
 		team = table[i,:Team]
-		destRow = findfirst(dest[:Team], team)
+		destRow = findfirst(isequal(team), dest[:Team])
 
-		if destRow!=0 # add to existing row
+		if destRow!=nothing # add to existing row
 			for j=2:size(table,2)
 				dest[destRow,j] += table[i,j]
 			end
@@ -121,7 +121,7 @@ function mergetables(tables...)
 	for table in tables
 		table = copy(table) # copy before changing
 		table[:Seasons] = 1 # all teams get one season from this table
-		delete!(table, :PointAverage) # remove point average and recompute it later
+		deletecols!(table, :PointAverage) # remove point average and recompute it later
 
 		@assert names(merged) == names(table)
 
@@ -132,7 +132,7 @@ function mergetables(tables...)
 end
 
 
-defaultresultsfolder() = joinpath(Pkg.dir("Allsvenskan"),"data","results")
+defaultresultsfolder() = joinpath(dirname(pathof(Allsvenskan)),"..","data","results")
 
 
 function allgamesbyseason(folder::String=defaultresultsfolder())
