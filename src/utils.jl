@@ -69,7 +69,7 @@ function printgames(io::IO, G::DataFrame)
     if :Outcome in names(G)
         for i=1:size(A,1)
             o = G[i,:Outcome]
-            if !isna(o)
+            if !ismissing(o)
                 o=="HomeVictory" && (A[i,6] = string(A[i,6], ' ', G[i,:HomeTeam], " tilldömd segern."))
                 o=="AwayVictory" && (A[i,6] = string(A[i,6], ' ', G[i,:AwayTeam], " tilldömd segern."))
             end
@@ -78,13 +78,13 @@ function printgames(io::IO, G::DataFrame)
     if :PointsDeductedHome in names(G)
         for i=1:size(A,1)
             p = G[i,:PointsDeductedHome]
-            isna(p) || (A[i,6] = string(A[i,6], ' ', p, " poängs avdrag för ", G[i,:HomeTeam], '.'))
+            ismissing(p) || (A[i,6] = string(A[i,6], ' ', p, " poängs avdrag för ", G[i,:HomeTeam], '.'))
         end
     end
     if :PointsDeductedAway in names(G)
         for i=1:size(A,1)
             p = G[i,:PointsDeductedAway]
-            isna(p) || (A[i,6] = string(A[i,6], ' ', p, " poängs avdrag för ", G[i,:AwayTeam], '.'))
+            ismissing(p) || (A[i,6] = string(A[i,6], ' ', p, " poängs avdrag för ", G[i,:AwayTeam], '.'))
         end
     end
 

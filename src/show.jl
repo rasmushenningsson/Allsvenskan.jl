@@ -102,7 +102,7 @@ function showgames(; folder=defaultresultsfolder(), seasons=1:100000,
     filterbyteam!(G, allTeams, home, [:HomeTeam])
     filterbyteam!(G, allTeams, away, [:AwayTeam])
 
-    G = vcat(G...)
+    G = _vcat(G...)
     @assert size(G,1)>0 "No games to show."
     printgames(G)
 end

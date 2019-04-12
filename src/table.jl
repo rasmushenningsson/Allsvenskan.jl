@@ -83,7 +83,8 @@ function table(games::DataFrame; kwargs...)
 	teams = sort(unique(vcat(games[:HomeTeam], games[:AwayTeam])))
 
 	# unsorted table
-	T = DataFrame(Team=teams, GamesPlayed=0, Wins=0, Draws=0, Losses=0, GoalsFor=0, GoalsAgainst=0, GoalDifference=0, Points=0)
+	T = DataFrame(Team=teams)
+	T[[:GamesPlayed, :Wins, :Draws, :Losses, :GoalsFor, :GoalsAgainst, :GoalDifference, :Points]] = 0
 
 	# Compute everything for this game
 	for g=1:size(games,1)
