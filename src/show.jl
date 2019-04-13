@@ -8,7 +8,7 @@ function filterbyteam!(G, allTeams, teams, cols=[:HomeTeam,:AwayTeam])
 
     for col in cols
         for i=1:size(G,1)
-            mask = map!(x-> x in teams, BitVector(size(G[i],1)), G[i][col])
+            mask = map!(x-> x in teams, BitVector(undef,size(G[i],1)), G[i][col])
             G[i] = G[i][mask,:]
         end
     end

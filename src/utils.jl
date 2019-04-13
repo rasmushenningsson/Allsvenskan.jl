@@ -54,16 +54,16 @@ printtable(T::DataFrame) = printtable(stdout, T)
 
 function printgames(io::IO, G::DataFrame)
     size(G,1)==0 && return
-    A = Matrix{String}(size(G,1), 6)
-    P = Vector{Function}(6) # determines left or right padding
-    S = Vector{String}(6)
+    A = fill("", size(G,1), 6)
+    P = Vector{Function}(undef,6) # determines left or right padding
+    S = fill("",6)
 
     P[ 1]=rpad; S[ 1]=" ";   A[:, 1]=map(string, G[:Date])
     P[ 2]=rpad; S[ 2]=" - "; A[:, 2]=map(string, G[:HomeTeam])
     P[ 3]=rpad; S[ 3]=" ";   A[:, 3]=map(string, G[:AwayTeam])
     P[ 4]=lpad; S[ 4]="-";   A[:, 4]=map(string, G[:HomeScore])
     P[ 5]=rpad; S[ 5]="";    A[:, 5]=map(string, G[:AwayScore])
-    P[ 6]=rpad; S[ 6]="";    A[:, 6]="" # for extra notes
+    P[ 6]=rpad; S[ 6]="";    A[:, 6].="" # for extra notes
 
     # handle unusual extra fields
     if :Outcome in names(G)
