@@ -70,6 +70,7 @@
 "2017-05-17","BK Häcken","Halmstads BK",2,1
 "2017-05-18","Jönköpings Södra IF","Djurgårdens IF",1,1
 "2017-05-18","IF Elfsborg","Athletic Eskilstuna",2,1
+"2017-08-10","IFK Göteborg","AIK",2,1
 "2017-05-20","Östersunds FK","Kalmar FF",2,1
 "2017-05-20","Halmstads BK","Örebro SK",0,0
 "2017-05-21","Athletic Eskilstuna","BK Häcken",0,0
@@ -87,6 +88,13 @@
 "2017-05-29","AIK","Malmö FF",0,1
 "2017-05-29","Örebro SK","IK Sirius",2,1
 "2017-06-01","IFK Norrköping","AIK",0,0
+"2017-07-22","Halmstads BK","GIF Sundsvall",2,2
+"2017-07-22","Malmö FF","Jönköpings Södra IF",2,0
+"2017-07-22","IK Sirius","BK Häcken",2,2
+"2017-07-23","Djurgårdens IF","Östersunds FK",3,0
+"2017-07-23","IFK Göteborg","Örebro SK",2,2
+"2017-07-23","Kalmar FF","Athletic Eskilstuna",2,0
+"2017-07-24","Hammarby IF","IF Elfsborg",2,1
 "2017-06-02","IF Elfsborg","BK Häcken",2,0
 "2017-06-03","Östersunds FK","GIF Sundsvall",3,1
 "2017-06-03","Kalmar FF","Örebro SK",0,1
@@ -95,3 +103,139 @@
 "2017-06-04","Hammarby IF","Djurgårdens IF",3,1
 "2017-06-04","IK Sirius","Halmstads BK",2,1
 "2017-06-04","IFK Norrköping","IFK Göteborg",2,0
+"2017-07-01","GIF Sundsvall","IK Sirius",1,2
+"2017-07-01","Malmö FF","Athletic Eskilstuna",3,2
+"2017-07-01","Halmstads BK","IF Elfsborg",1,1
+"2017-07-02","Jönköpings Södra IF","IFK Göteborg",0,2
+"2017-07-02","AIK","Östersunds FK",2,2
+"2017-07-02","Örebro SK","IFK Norrköping",4,2
+"2017-07-03","BK Häcken","Hammarby IF",2,0
+"2017-07-03","Djurgårdens IF","Kalmar FF",4,1
+"2017-07-08","IK Sirius","Athletic Eskilstuna",1,0
+"2017-07-08","Hammarby IF","Örebro SK",3,1
+"2017-07-08","BK Häcken","Malmö FF",0,1
+"2017-07-09","IFK Norrköping","IF Elfsborg",1,3
+"2017-07-09","Kalmar FF","AIK",0,1
+"2017-07-09","Östersunds FK","Jönköpings Södra IF",1,1
+"2017-07-10","IFK Göteborg","Halmstads BK",1,1
+"2017-07-10","Djurgårdens IF","GIF Sundsvall",2,1
+"2017-07-15","Athletic Eskilstuna","Kalmar FF",2,1
+"2017-07-15","GIF Sundsvall","Halmstads BK",1,0
+"2017-07-15","Malmö FF","IK Sirius",3,3
+"2017-07-16","Örebro SK","IFK Göteborg",4,2
+"2017-07-16","Östersunds FK","Djurgårdens IF",2,1
+"2017-07-16","AIK","IFK Norrköping",1,0
+"2017-07-17","IF Elfsborg","Hammarby IF",3,0
+"2017-07-17","Jönköpings Södra IF","BK Häcken",0,1
+"2017-07-29","Jönköpings Södra IF","Hammarby IF",1,0
+"2017-07-29","IF Elfsborg","IK Sirius",0,2
+"2017-07-29","GIF Sundsvall","Malmö FF",0,1
+"2017-07-30","Östersunds FK","Halmstads BK",0,0
+"2017-07-30","IFK Göteborg","IFK Norrköping",4,1
+"2017-07-30","AIK","Kalmar FF",0,1
+"2017-07-31","Athletic Eskilstuna","Djurgårdens IF",1,2
+"2017-07-31","BK Häcken","Örebro SK",1,1
+"2017-08-05","Halmstads BK","Jönköpings Södra IF",6,1
+"2017-08-05","Örebro SK","IF Elfsborg",2,2
+"2017-08-06","Hammarby IF","BK Häcken",1,2
+"2017-08-06","GIF Sundsvall","Östersunds FK",1,1
+"2017-08-06","Kalmar FF","IFK Göteborg",1,0
+"2017-08-06","IK Sirius","AIK",1,4
+"2017-08-07","IFK Norrköping","Athletic Eskilstuna",1,0
+"2017-08-07","Djurgårdens IF","Malmö FF",0,1
+"2017-08-11","Malmö FF","Kalmar FF",6,0
+"2017-08-12","Halmstads BK","IK Sirius",0,3
+"2017-08-13","Hammarby IF","Östersunds FK",2,2
+"2017-08-13","AIK","Athletic Eskilstuna",1,1
+"2017-08-13","IFK Norrköping","Djurgårdens IF",0,1
+"2017-08-13","Jönköpings Södra IF","Örebro SK",1,2
+"2017-08-14","BK Häcken","GIF Sundsvall",2,0
+"2017-08-14","IF Elfsborg","IFK Göteborg",1,2
+"2017-08-18","Jönköpings Södra IF","IF Elfsborg",2,2
+"2017-08-19","Athletic Eskilstuna","Malmö FF",3,1
+"2017-08-20","Östersunds FK","AIK",0,3
+"2017-08-20","Djurgårdens IF","Halmstads BK",2,1
+"2017-08-20","IK Sirius","IFK Norrköping",0,1
+"2017-08-20","IFK Göteborg","BK Häcken",1,1
+"2017-08-21","GIF Sundsvall","Kalmar FF",1,3
+"2017-08-21","Örebro SK","Hammarby IF",0,3
+"2017-08-26","Athletic Eskilstuna","Hammarby IF",0,0
+"2017-08-27","AIK","Djurgårdens IF",1,1
+"2017-08-27","IFK Norrköping","Östersunds FK",0,2
+"2017-08-27","BK Häcken","Jönköpings Södra IF",3,1
+"2017-08-27","Kalmar FF","IK Sirius",4,2
+"2017-08-27","GIF Sundsvall","Örebro SK",2,1
+"2017-08-27","IF Elfsborg","Halmstads BK",1,0
+"2017-08-27","Malmö FF","IFK Göteborg",2,2
+"2017-09-09","Östersunds FK","Athletic Eskilstuna",3,0
+"2017-09-10","Halmstads BK","BK Häcken",0,3
+"2017-09-10","Hammarby IF","AIK",1,1
+"2017-09-10","IF Elfsborg","Kalmar FF",2,2
+"2017-09-10","Örebro SK","Malmö FF",2,1
+"2017-09-10","IK Sirius","GIF Sundsvall",0,1
+"2017-09-10","Jönköpings Södra IF","IFK Norrköping",1,2
+"2017-09-11","IFK Göteborg","Djurgårdens IF",1,3
+"2017-09-15","Kalmar FF","IFK Norrköping",1,1
+"2017-09-16","IFK Göteborg","Jönköpings Södra IF",1,1
+"2017-09-16","BK Häcken","IF Elfsborg",3,0
+"2017-09-16","Djurgårdens IF","Örebro SK",4,1
+"2017-09-17","AIK","Halmstads BK",4,1
+"2017-09-17","IK Sirius","Östersunds FK",0,5
+"2017-09-17","Malmö FF","Hammarby IF",4,0
+"2017-09-18","Athletic Eskilstuna","GIF Sundsvall",1,2
+"2017-09-19","IFK Norrköping","BK Häcken",4,1
+"2017-09-19","IF Elfsborg","Djurgårdens IF",2,2
+"2017-09-20","Halmstads BK","Kalmar FF",1,1
+"2017-09-20","Östersunds FK","Malmö FF",2,2
+"2017-09-20","Jönköpings Södra IF","IK Sirius",3,1
+"2017-09-20","Hammarby IF","IFK Göteborg",2,1
+"2017-09-21","Örebro SK","Athletic Eskilstuna",2,3
+"2017-09-21","GIF Sundsvall","AIK",0,0
+"2017-09-23","Halmstads BK","IFK Norrköping",2,1
+"2017-09-24","Kalmar FF","Östersunds FK",2,1
+"2017-09-24","Djurgårdens IF","Hammarby IF",1,1
+"2017-09-24","Jönköpings Södra IF","GIF Sundsvall",2,2
+"2017-09-24","BK Häcken","AIK",1,6
+"2017-09-25","Athletic Eskilstuna","IFK Göteborg",1,0
+"2017-09-25","IK Sirius","Örebro SK",3,4
+"2017-09-25","Malmö FF","IF Elfsborg",6,0
+"2017-09-29","IFK Göteborg","IK Sirius",4,0
+"2017-09-30","Athletic Eskilstuna","Jönköpings Södra IF",1,1
+"2017-10-01","Östersunds FK","BK Häcken",0,0
+"2017-10-01","GIF Sundsvall","Djurgårdens IF",0,5
+"2017-10-01","Malmö FF","Halmstads BK",2,0
+"2017-10-01","Hammarby IF","IFK Norrköping",0,2
+"2017-10-01","AIK","IF Elfsborg",5,2
+"2017-10-01","Örebro SK","Kalmar FF",1,0
+"2017-10-14","Halmstads BK","IFK Göteborg",1,2
+"2017-10-14","Östersunds FK","Örebro SK",3,0
+"2017-10-14","BK Häcken","Athletic Eskilstuna",3,0
+"2017-10-15","AIK","Jönköpings Södra IF",2,0
+"2017-10-15","IK Sirius","Djurgårdens IF",2,0
+"2017-10-15","IF Elfsborg","GIF Sundsvall",2,1
+"2017-10-16","IFK Norrköping","Malmö FF",1,3
+"2017-10-16","Kalmar FF","Hammarby IF",2,0
+"2017-10-20","Örebro SK","Halmstads BK",0,1
+"2017-10-21","Athletic Eskilstuna","IF Elfsborg",2,3
+"2017-10-22","GIF Sundsvall","IFK Norrköping",2,2
+"2017-10-22","IFK Göteborg","Östersunds FK",0,1
+"2017-10-22","Djurgårdens IF","BK Häcken",1,1
+"2017-10-23","Jönköpings Södra IF","Kalmar FF",2,0
+"2017-10-23","Hammarby IF","IK Sirius",3,3
+"2017-10-23","Malmö FF","AIK",0,0
+"2017-10-28","Östersunds FK","IF Elfsborg",4,1
+"2017-10-28","Halmstads BK","Athletic Eskilstuna",1,1
+"2017-10-29","IK Sirius","Malmö FF",0,4
+"2017-10-29","GIF Sundsvall","Hammarby IF",1,4
+"2017-10-29","BK Häcken","Kalmar FF",2,0
+"2017-10-29","Djurgårdens IF","Jönköpings Södra IF",0,0
+"2017-10-30","IFK Norrköping","Örebro SK",2,0
+"2017-10-30","AIK","IFK Göteborg",2,1
+"2017-11-05","Athletic Eskilstuna","IK Sirius",1,3
+"2017-11-05","Jönköpings Södra IF","Östersunds FK",0,0
+"2017-11-05","Hammarby IF","Halmstads BK",1,3
+"2017-11-05","IFK Göteborg","GIF Sundsvall",0,3
+"2017-11-05","IF Elfsborg","IFK Norrköping",3,3
+"2017-11-05","Malmö FF","BK Häcken",1,2
+"2017-11-05","Kalmar FF","Djurgårdens IF",0,2
+"2017-11-05","Örebro SK","AIK",1,2
