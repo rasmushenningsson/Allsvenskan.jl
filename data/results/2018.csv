@@ -4,13 +4,13 @@
 "2018-04-01","Östersunds FK","Djurgårdens IF",0,1
 "2018-04-01","Trelleborgs FF","IFK Göteborg",1,3
 "2018-04-02","IFK Norrköping","IF Brommapojkarna",2,1
-"2018-04-02","AIK","Dalkurd",2,0
+"2018-04-02","AIK","Dalkurd FF",2,0
 "2018-04-02","GIF Sundsvall","Örebro SK",0,0
 "2018-04-02","IF Elfsborg","Malmö FF",1,2
 "2018-04-07","Örebro SK","IFK Norrköping",1,1
 "2018-04-08","Kalmar FF","IF Elfsborg",1,0
 "2018-04-08","Djurgårdens IF","Trelleborgs FF",1,1
-"2018-04-08","Dalkurd","Östersunds FK",3,0
+"2018-04-08","Dalkurd FF","Östersunds FK",3,0
 "2018-04-09","Malmö FF","AIK",1,1
 "2018-04-09","IF Brommapojkarna","BK Häcken",2,0
 "2018-04-10","IFK Göteborg","Hammarby IF",1,2
@@ -18,7 +18,7 @@
 "2018-04-13","GIF Sundsvall","Malmö FF",2,2
 "2018-04-13","Trelleborgs FF","Örebro SK",1,2
 "2018-04-14","IF Elfsborg","IK Sirius",0,1
-"2018-04-14","BK Häcken","Dalkurd",3,0
+"2018-04-14","BK Häcken","Dalkurd FF",3,0
 "2018-04-15","IFK Norrköping","Kalmar FF",3,1
 "2018-04-15","AIK","Djurgårdens IF",2,0
 "2018-04-15","Östersunds FK","IFK Göteborg",2,1
@@ -29,10 +29,10 @@
 "2018-04-18","Djurgårdens IF","Malmö FF",3,0
 "2018-04-18","Örebro SK","AIK",1,1
 "2018-04-19","Hammarby IF","IFK Norrköping",2,1
-"2018-04-19","IFK Göteborg","Dalkurd",1,0
+"2018-04-19","IFK Göteborg","Dalkurd FF",1,0
 "2018-04-19","IF Brommapojkarna","IF Elfsborg",0,2
 "2018-04-21","Östersunds FK","Örebro SK",0,2
-"2018-04-22","Dalkurd","GIF Sundsvall",2,2
+"2018-04-22","Dalkurd FF","GIF Sundsvall",2,2
 "2018-04-22","BK Häcken","Hammarby IF",2,2
 "2018-04-22","AIK","IFK Göteborg",2,0
 "2018-04-22","Trelleborgs FF","Kalmar FF",0,1
@@ -46,11 +46,11 @@
 "2018-04-29","IFK Norrköping","Trelleborgs FF",1,2
 "2018-04-29","Kalmar FF","Malmö FF",3,0
 "2018-04-30","IF Brommapojkarna","Östersunds FK",0,4
-"2018-04-30","Örebro SK","Dalkurd",3,2
+"2018-04-30","Örebro SK","Dalkurd FF",3,2
 "2018-05-02","IK Sirius","AIK",2,3
 "2018-05-03","Malmö FF","Djurgårdens IF",1,0
 "2018-08-04","Kalmar FF","IFK Göteborg",2,1
-"2018-08-04","IF Brommapojkarna","Dalkurd",2,1
+"2018-08-04","IF Brommapojkarna","Dalkurd FF",2,1
 "2018-08-05","Hammarby IF","Trelleborgs FF",1,0
 "2018-08-05","Örebro SK","BK Häcken",1,2
 "2018-08-06","GIF Sundsvall","IFK Norrköping",1,1
@@ -58,14 +58,14 @@
 "2018-05-05","Hammarby IF","GIF Sundsvall",4,3
 "2018-05-05","Östersunds FK","IFK Norrköping",0,2
 "2018-05-06","IF Brommapojkarna","Djurgårdens IF",1,0
-"2018-05-06","Dalkurd","Kalmar FF",1,2
+"2018-05-06","Dalkurd FF","Kalmar FF",1,2
 "2018-05-06","IF Elfsborg","AIK",0,0
 "2018-05-06","Trelleborgs FF","BK Häcken",0,3
 "2018-05-07","IK Sirius","Örebro SK",2,4
 "2018-05-07","Malmö FF","IFK Göteborg",1,2
 "2018-05-12","GIF Sundsvall","IF Brommapojkarna",3,0
 "2018-05-13","IFK Göteborg","IFK Norrköping",0,2
-"2018-05-13","Djurgårdens IF","Dalkurd",1,0
+"2018-05-13","Djurgårdens IF","Dalkurd FF",1,0
 "2018-05-13","Örebro SK","Hammarby IF",1,2
 "2018-05-13","Trelleborgs FF","Malmö FF",1,0
 "2018-05-14","BK Häcken","IF Elfsborg",5,0
@@ -78,19 +78,19 @@
 "2018-05-23","Östersunds FK","IK Sirius",5,2
 "2018-05-24","Trelleborgs FF","IF Brommapojkarna",2,1
 "2018-05-24","IFK Göteborg","Djurgårdens IF",1,3
-"2018-05-24","Dalkurd","IF Elfsborg",1,4
+"2018-05-24","Dalkurd FF","IF Elfsborg",1,4
 "2018-05-17","Djurgårdens IF","Örebro SK",2,0
 "2018-05-18","IF Brommapojkarna","Kalmar FF",2,1
 "2018-05-19","IK Sirius","Trelleborgs FF",1,1
 "2018-05-19","GIF Sundsvall","Östersunds FK",2,3
-"2018-05-19","IFK Norrköping","Dalkurd",4,2
+"2018-05-19","IFK Norrköping","Dalkurd FF",4,2
 "2018-05-20","Hammarby IF","AIK",0,1
 "2018-05-20","Malmö FF","BK Häcken",2,0
 "2018-05-21","IF Elfsborg","IFK Göteborg",1,1
 "2018-05-26","AIK","IFK Norrköping",3,3
 "2018-05-26","Östersunds FK","BK Häcken",2,0
 "2018-05-27","GIF Sundsvall","IFK Göteborg",2,0
-"2018-05-27","Malmö FF","Dalkurd",1,1
+"2018-05-27","Malmö FF","Dalkurd FF",1,1
 "2018-05-27","Kalmar FF","Hammarby IF",1,1
 "2018-05-27","IK Sirius","Djurgårdens IF",1,5
 "2018-05-27","IF Elfsborg","Trelleborgs FF",2,1
@@ -98,14 +98,14 @@
 "2018-07-07","IK Sirius","Malmö FF",0,4
 "2018-07-07","BK Häcken","GIF Sundsvall",3,0
 "2018-07-07","Trelleborgs FF","AIK",1,4
-"2018-07-07","Dalkurd","IF Brommapojkarna",3,0
+"2018-07-07","Dalkurd FF","IF Brommapojkarna",3,0
 "2018-07-08","IFK Göteborg","Kalmar FF",1,3
 "2018-07-08","Djurgårdens IF","IFK Norrköping",1,1
 "2018-07-08","Örebro SK","IF Elfsborg",1,2
 "2018-07-09","Hammarby IF","Östersunds FK",1,2
 "2018-07-14","Malmö FF","Östersunds FK",1,1
 "2018-07-14","IF Brommapojkarna","IK Sirius",0,1
-"2018-07-14","Dalkurd","Trelleborgs FF",2,2
+"2018-07-14","Dalkurd FF","Trelleborgs FF",2,2
 "2018-07-14","IFK Göteborg","Örebro SK",2,0
 "2018-07-15","GIF Sundsvall","AIK",0,1
 "2018-07-15","IFK Norrköping","BK Häcken",2,1
@@ -117,25 +117,25 @@
 "2018-07-22","AIK","IF Brommapojkarna",5,1
 "2018-07-22","Djurgårdens IF","BK Häcken",2,1
 "2018-07-22","IK Sirius","IFK Göteborg",3,2
-"2018-07-23","Hammarby IF","Dalkurd",4,1
+"2018-07-23","Hammarby IF","Dalkurd FF",4,1
 "2018-07-23","IFK Norrköping","IF Elfsborg",1,0
 "2018-07-28","IFK Göteborg","IF Brommapojkarna",3,0
 "2018-07-28","Östersunds FK","IF Elfsborg",1,0
 "2018-07-28","Malmö FF","IFK Norrköping",2,1
-"2018-07-28","Dalkurd","IK Sirius",1,3
+"2018-07-28","Dalkurd FF","IK Sirius",1,3
 "2018-07-29","Djurgårdens IF","GIF Sundsvall",1,1
 "2018-07-29","AIK","Kalmar FF",1,0
 "2018-07-29","BK Häcken","Örebro SK",1,1
 "2018-07-30","Trelleborgs FF","Hammarby IF",1,3
 "2018-08-10","IFK Göteborg","IK Sirius",2,3
-"2018-08-10","Dalkurd","Malmö FF",0,1
+"2018-08-10","Dalkurd FF","Malmö FF",0,1
 "2018-08-11","Örebro SK","IF Brommapojkarna",0,1
 "2018-08-12","BK Häcken","Djurgårdens IF",5,0
 "2018-08-12","Östersunds FK","Kalmar FF",2,0
 "2018-08-12","AIK","IF Elfsborg",1,0
 "2018-08-13","IFK Norrköping","Hammarby IF",0,0
 "2018-08-13","Trelleborgs FF","GIF Sundsvall",1,6
-"2018-08-17","IK Sirius","Dalkurd",2,3
+"2018-08-17","IK Sirius","Dalkurd FF",2,3
 "2018-08-18","Malmö FF","Trelleborgs FF",3,0
 "2018-08-19","GIF Sundsvall","BK Häcken",0,2
 "2018-08-19","IF Elfsborg","IFK Norrköping",0,1
@@ -148,7 +148,7 @@
 "2018-08-26","Östersunds FK","GIF Sundsvall",1,2
 "2018-08-26","AIK","Trelleborgs FF",2,0
 "2018-08-26","Djurgårdens IF","IF Elfsborg",2,2
-"2018-08-27","Dalkurd","Hammarby IF",2,3
+"2018-08-27","Dalkurd FF","Hammarby IF",2,3
 "2018-08-27","IFK Norrköping","IFK Göteborg",2,1
 "2018-08-27","Kalmar FF","Örebro SK",0,1
 "2018-08-31","Trelleborgs FF","IFK Norrköping",1,1
@@ -156,7 +156,7 @@
 "2018-09-01","Örebro SK","Östersunds FK",2,1
 "2018-09-02","Hammarby IF","Djurgårdens IF",1,3
 "2018-09-02","IF Brommapojkarna","Malmö FF",0,3
-"2018-09-02","Dalkurd","IFK Göteborg",1,1
+"2018-09-02","Dalkurd FF","IFK Göteborg",1,1
 "2018-09-02","GIF Sundsvall","IK Sirius",4,0
 "2018-09-02","IF Elfsborg","Kalmar FF",1,1
 "2018-09-15","Örebro SK","GIF Sundsvall",2,1
@@ -166,12 +166,12 @@
 "2018-09-16","Djurgårdens IF","IF Brommapojkarna",0,1
 "2018-09-17","IK Sirius","Hammarby IF",1,1
 "2018-09-17","BK Häcken","Trelleborgs FF",2,1
-"2018-09-17","Kalmar FF","Dalkurd",0,0
+"2018-09-17","Kalmar FF","Dalkurd FF",0,0
 "2018-09-21","IF Brommapojkarna","GIF Sundsvall",1,3
 "2018-09-22","IK Sirius","Östersunds FK",0,1
 "2018-09-22","IF Elfsborg","Örebro SK",1,0
 "2018-09-22","Trelleborgs FF","Djurgårdens IF",0,3
-"2018-09-22","Dalkurd","IFK Norrköping",0,2
+"2018-09-22","Dalkurd FF","IFK Norrköping",0,2
 "2018-09-23","AIK","Hammarby IF",1,0
 "2018-09-23","Malmö FF","Kalmar FF",4,0
 "2018-09-24","BK Häcken","IFK Göteborg",4,1
@@ -180,18 +180,18 @@
 "2018-09-26","GIF Sundsvall","Djurgårdens IF",1,1
 "2018-09-26","IFK Norrköping","Malmö FF",3,1
 "2018-09-26","Östersunds FK","IF Brommapojkarna",3,1
-"2018-09-26","Trelleborgs FF","Dalkurd",0,1
+"2018-09-26","Trelleborgs FF","Dalkurd FF",0,1
 "2018-09-27","IFK Göteborg","AIK",0,2
 "2018-09-27","Kalmar FF","BK Häcken",1,2
 "2018-09-29","IK Sirius","IFK Norrköping",1,1
-"2018-09-30","Dalkurd","AIK",0,4
+"2018-09-30","Dalkurd FF","AIK",0,4
 "2018-09-30","Kalmar FF","IF Brommapojkarna",1,1
 "2018-09-30","Malmö FF","GIF Sundsvall",0,0
 "2018-09-30","Djurgårdens IF","Östersunds FK",0,2
 "2018-10-01","Hammarby IF","IFK Göteborg",3,0
 "2018-10-01","IF Elfsborg","BK Häcken",0,3
 "2018-10-01","Örebro SK","Trelleborgs FF",4,0
-"2018-10-05","Östersunds FK","Dalkurd",3,0
+"2018-10-05","Östersunds FK","Dalkurd FF",3,0
 "2018-10-06","IK Sirius","IF Elfsborg",4,2
 "2018-10-06","IFK Göteborg","Trelleborgs FF",2,2
 "2018-10-07","BK Häcken","Malmö FF",1,1
@@ -200,7 +200,7 @@
 "2018-10-07","IF Brommapojkarna","Hammarby IF",2,4
 "2018-10-08","GIF Sundsvall","Kalmar FF",2,0
 "2018-10-20","Malmö FF","Hammarby IF",2,1
-"2018-10-20","Dalkurd","Örebro SK",1,0
+"2018-10-20","Dalkurd FF","Örebro SK",1,0
 "2018-10-21","BK Häcken","Östersunds FK",2,0
 "2018-10-21","Djurgårdens IF","AIK",0,0
 "2018-10-21","IF Elfsborg","GIF Sundsvall",2,0
@@ -209,13 +209,13 @@
 "2018-10-22","IF Brommapojkarna","IFK Göteborg",0,2
 "2018-10-26","IFK Göteborg","GIF Sundsvall",1,2
 "2018-10-26","Trelleborgs FF","IF Elfsborg",2,2
-"2018-10-27","Dalkurd","BK Häcken",0,5
+"2018-10-27","Dalkurd FF","BK Häcken",0,5
 "2018-10-28","Hammarby IF","Kalmar FF",0,0
 "2018-10-28","Örebro SK","Djurgårdens IF",1,1
 "2018-10-28","IK Sirius","IF Brommapojkarna",4,2
 "2018-10-28","IFK Norrköping","Östersunds FK",4,2
 "2018-10-29","AIK","Malmö FF",1,1
-"2018-10-30","IF Elfsborg","Dalkurd",0,0
+"2018-10-30","IF Elfsborg","Dalkurd FF",0,0
 "2018-10-31","GIF Sundsvall","Hammarby IF",2,3
 "2018-10-31","BK Häcken","IK Sirius",2,1
 "2018-10-31","Kalmar FF","Trelleborgs FF",2,1
@@ -227,11 +227,11 @@
 "2018-11-04","IFK Göteborg","Malmö FF",0,3
 "2018-11-04","Hammarby IF","BK Häcken",1,0
 "2018-11-04","AIK","GIF Sundsvall",0,0
-"2018-11-05","Dalkurd","Djurgårdens IF",1,2
+"2018-11-05","Dalkurd FF","Djurgårdens IF",1,2
 "2018-11-05","IK Sirius","Kalmar FF",1,1
 "2018-11-05","IF Elfsborg","IF Brommapojkarna",1,2
 "2018-11-05","Trelleborgs FF","Östersunds FK",0,1
-"2018-11-11","GIF Sundsvall","Dalkurd",0,1
+"2018-11-11","GIF Sundsvall","Dalkurd FF",0,1
 "2018-11-11","BK Häcken","IFK Norrköping",0,1
 "2018-11-11","Malmö FF","IF Elfsborg",2,0
 "2018-11-11","Kalmar FF","AIK",0,1
