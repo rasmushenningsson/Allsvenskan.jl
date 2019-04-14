@@ -16,6 +16,7 @@ export
     allgames,
     alltables,
     allteams,
+    marathon,
     showmarathon,
     showhead2head,
     showgames

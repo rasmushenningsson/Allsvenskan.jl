@@ -1,40 +1,6 @@
 
-function filterbyteam!(G, allTeams, teams, cols=[:HomeTeam,:AwayTeam])
-    if !all(x->x in allTeams, teams)
-        i = findfirst(x->!(x in allTeams), teams)
-        error("Unknown team: \"", teams[i], "\". Did you mean: \"", 
-              didyoumean(allTeams, teams[i]), "\"?")
-    end
 
-    for col in cols
-        for i=1:size(G,1)
-            mask = map!(x-> x in teams, BitVector(undef,size(G[i],1)), G[i][col])
-            G[i] = G[i][mask,:]
-        end
-    end
-    G
-end
-
-
-
-function showmarathon(; folder=defaultresultsfolder(), seasons=1:100000, 
-                        teams=nothing, turf=:both, kwargs...)
-    @assert turf in [:both, :home, :away]
-
-    G = allgamesbyseason(folder)
-    allTeams = unique(vcat( map(x->x[:HomeTeam],G)..., map(x->x[:AwayTeam],G)... ))
-
-    filter!(x-> Dates.year(Date(x[1,:Date])) in seasons, G)
-
-    teams==nothing || filterbyteam!(G, allTeams, teams)
-
-    incHome = turf==:both || turf==:home
-    incAway = turf==:both || turf==:away
-
-    T = mergetables(table.(G;incHome=incHome,incAway=incAway,kwargs...)...)
-    printtable(T)
-end
-
+showmarathon(; kwargs...) = printtable(marathon(;kwargs...))
 
 
 function head2head(teamA, teamB, folder, seasons=1:100000;
